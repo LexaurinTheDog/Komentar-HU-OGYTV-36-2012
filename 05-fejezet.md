@@ -6,7 +6,7 @@
 
 **A rendelkezés szövege:**
 
-> Az állami szervek kötelesek a képviselőket megbízatásuk ellátásában támogatni, és részükre a munkájukhoz szükséges felvilágosítást megadni. A képviselő valamennyi közigazgatási szerv, közintézet és közintézmény vezetőjétől előzetesen egyeztetett módon tájékoztatást kérhet. E jogosultság az érintett szerv működésére vonatkozó előírásokra figyelemmel, valamint rendeltetésszerű működésének aránytalan sérelme nélkül gyakorolható.
+> (1) Az állami szervek kötelesek a képviselőket megbízatásuk ellátásában támogatni, és részükre a munkájukhoz szükséges felvilágosítást megadni. A képviselő valamennyi közigazgatási szerv, közintézet és közintézmény vezetőjétől előzetesen egyeztetett módon tájékoztatást kérhet. E jogosultság az érintett szerv működésére vonatkozó előírásokra figyelemmel, valamint rendeltetésszerű működésének aránytalan sérelme nélkül gyakorolható.
 >
 > (2)⁽³²²⁾ A képviselő a feladatai ellátásához szükséges minősített adatokat – a minősített adat védelméről szóló törvényben foglaltaktól eltérően – személyi biztonsági tanúsítvány nélkül, titoktartási nyilatkozat kitöltését követően használhatja fel, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
 >
@@ -54,7 +54,7 @@ A rendelkezés eljárási jellegű: ha a képviselő megbízatása az Alaptörv�
 
 **A rendelkezés szövege:**
 
-> A képviselő a házelnökhöz benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról.
+> (1) A képviselő a házelnökhöz benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról.
 >
 > (2) A képviselő képviselői megbízatása a lemondás benyújtásával szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
 >
@@ -68,7 +68,7 @@ A szakasz a képviselői megbízatásról való lemondás szabályait rendezi. A
 
 **A rendelkezés szövege:**
 
-> Az Alaptörvény 4. cikk (3) bekezdés e) pontja alapján megszűnik annak a képviselőnek a megbízatása,
+> (1) Az Alaptörvény 4. cikk (3) bekezdés e) pontja alapján megszűnik annak a képviselőnek a megbízatása,
 >
 > a) aki már nem magyar állampolgár,
 >
@@ -104,7 +104,7 @@ A (2) bekezdés az eljárási kereteket rendezi: a megbízatás e szakasz szerin
 
 **A rendelkezés szövege:**
 
-> A képviselő megbízatása az Alaptörvény 4. cikk (3) bekezdés f) pontja alapján akkor szűnik meg, ha a képviselő egy éven keresztül egy esetben sem vett részt az Országgyűlés ülésén szavazatszámláló gép alkalmazásával tartott szavazásokon.
+> (1) A képviselő megbízatása az Alaptörvény 4. cikk (3) bekezdés f) pontja alapján akkor szűnik meg, ha a képviselő egy éven keresztül egy esetben sem vett részt az Országgyűlés ülésén szavazatszámláló gép alkalmazásával tartott szavazásokon.
 >
 > (2) A képviselői megbízatás (1) bekezdés szerinti megszűnése esetén a 93/A. és 93/C. §-t kell alkalmazni azzal, hogy
 >
@@ -126,7 +126,7 @@ A rendelkezés az Alaptörvény 4. cikk (3) bekezdés f) pontja szerinti megszű
 
 **A rendelkezés szövege:**
 
-> ⁽³²⁸⁾ Az önkéntes tartalékos szolgálati jogviszonyban álló képviselőnek az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés érdekében történő behívása kizárólag a vele egyeztetett időpontban kerülhet sor. Különleges jogrend esetén a képviselő felkészítés vagy tényleges szolgálatteljesítés érdekében történő behívására kizárólag a kezdeményezésére kerülhet sor. A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés megkezdésének az időpontját a behívóparancs kézhezvételétől számított 5 napon belül bejelenti a házelnöknek.
+> (1)⁽³²⁸⁾ Az önkéntes tartalékos szolgálati jogviszonyban álló képviselőnek az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés érdekében történő behívása kizárólag a vele egyeztetett időpontban kerülhet sor. Különleges jogrend esetén a képviselő felkészítés vagy tényleges szolgálatteljesítés érdekében történő behívására kizárólag a kezdeményezésére kerülhet sor. A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés megkezdésének az időpontját a behívóparancs kézhezvételétől számított 5 napon belül bejelenti a házelnöknek.
 >
 > (2) A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés ideje alatt a 36–37. alcímben meghatározott javadalmazásra nem jogosult.
 
@@ -144,7 +144,7 @@ A szakasz a honvédelmi kötelezettség és a képviselői tisztség összeegyez
 
 **A rendelkezés szövege:**
 
-> A képviselő havonta tiszteletdíjra jogosult. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított képviselői tiszteletdíj havonta a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset 1,8-szorosának megfelelő összeg.
+> (1) A képviselő havonta tiszteletdíjra jogosult. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított képviselői tiszteletdíj havonta a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset 1,8-szorosának megfelelő összeg.
 >
 > (2) Az (1) bekezdéstől eltérően, ha a képviselő
 >
@@ -176,7 +176,7 @@ A (4)–(8) bekezdés a képviselőcsoporti vezetői és vezetőhelyettesi tiszt
 
 **A rendelkezés szövege:**
 
-> Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,4-szerese.
+> (1) Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,4-szerese.
 >
 > (2) A 14. § (1) bekezdés a) pontja szerinti bizottság elnökének tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,4-szerese.
 >
@@ -200,7 +200,7 @@ A szakasz az Országgyűlés egyes tisztségviselőinek – az alelnöknek, a 14
 
 **A rendelkezés szövege:**
 
-> ⁽³³¹⁾ A képviselő – az e törvényben meghatározottak kivételével – állami szervtől egyéb jogcímen díjazásban nem részesülhet.
+> (1)⁽³³¹⁾ A képviselő – az e törvényben meghatározottak kivételével – állami szervtől egyéb jogcímen díjazásban nem részesülhet.
 >
 > (2)⁽³³²⁾ A miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott vagy a miniszteri biztos képviselő a 104. § (1) vagy (2) bekezdésében meghatározott tiszteletdíjra is jogosult.
 
@@ -216,7 +216,7 @@ A szakasz az állami szervektől származó egyéb díjazás tilalmát mondja ki
 
 **A rendelkezés szövege:**
 
-> Ha az Országgyűlés a napirendi javaslatban feltüntetett szavazások – napirendi javaslatban jelzett – időpontjában nem határozatképes, és a határozatképességet az ülést vezető elnöknek nem sikerül helyreállítania, akkor az előzetes bejelentés nélkül távol maradó képviselő adott havi – levonásoktól mentes – teljes tiszteletdíját a Házbizottság csökkentheti. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a 104. § (1) bekezdés szerinti tiszteletdíj harmadát.
+> (1) Ha az Országgyűlés a napirendi javaslatban feltüntetett szavazások – napirendi javaslatban jelzett – időpontjában nem határozatképes, és a határozatképességet az ülést vezető elnöknek nem sikerül helyreállítania, akkor az előzetes bejelentés nélkül távol maradó képviselő adott havi – levonásoktól mentes – teljes tiszteletdíját a Házbizottság csökkentheti. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a 104. § (1) bekezdés szerinti tiszteletdíj harmadát.
 >
 > (2) Ha a képviselő igazolatlanul távol marad az Országgyűlés adott hónapban tartott ülésének vagy – több ülés esetén – üléseinek napirendi javaslatában feltüntetett, szavazatszámláló gép alkalmazásával megtartott szavazásainak több mint egynegyedéről, adott havi – levonásoktól mentes – teljes tiszteletdíjának a 104. § (1) bekezdés szerint meghatározott összege az igazolatlan távolmaradás mértékével megegyezően csökken.
 >
@@ -254,7 +254,7 @@ A (6)–(9) bekezdés a számítási és alkalmazási részletszabályokat tarta
 
 **A rendelkezés szövege:**
 
-> ⁽³³⁶⁾ Az a képviselő, akinek a Házbizottság a tiszteletdíját a 107. § (1) vagy (3) bekezdése alapján csökkentette, a döntés kézhezvételét követő nyolc napon belül kérheti a Mentelmi Bizottságtól – a bizottság elnökéhez benyújtott kérelemmel – a döntés hatályon kívül helyezését.
+> (1)⁽³³⁶⁾ Az a képviselő, akinek a Házbizottság a tiszteletdíját a 107. § (1) vagy (3) bekezdése alapján csökkentette, a döntés kézhezvételét követő nyolc napon belül kérheti a Mentelmi Bizottságtól – a bizottság elnökéhez benyújtott kérelemmel – a döntés hatályon kívül helyezését.
 >
 > (2)⁽³³⁷⁾ A Mentelmi Bizottság a képviselő kérelméről húsz napon belül dönt, azzal, hogy e határidő első napja a kérelem beérkezését követő nap. Ha a képviselő kérelmében ezt indítványozza, akkor a jogorvoslati eljárás során a bizottság őt meghallgatja, amelynek érdekében a képviselő a bizottság adott ülésén – a meghallgatásának időtartama alatt – az esetleges kitiltására való tekintet nélkül jelen lehet.
 >
@@ -286,7 +286,7 @@ A szakasz a 107. § alapján elrendelt tiszteletdíj-csökkentéssel szembeni jo
 
 **A rendelkezés szövege:**
 
-> Az e törvény rendelkezései alapján elrendelt tiszteletdíj-csökkentés összegét a képviselőnek a tiszteletdíj-csökkentés elrendelésének jogerőre emelkedését követően folyósított tiszteletdíjából kell levonni.
+> (1) Az e törvény rendelkezései alapján elrendelt tiszteletdíj-csökkentés összegét a képviselőnek a tiszteletdíj-csökkentés elrendelésének jogerőre emelkedését követően folyósított tiszteletdíjából kell levonni.
 >
 > (2) A tiszteletdíj-csökkentés végrehajtása során a képviselő részére folyósított tiszteletdíj összege – a képviselő tiszteletdíjának e törvény szerinti valamennyi csökkentését figyelembe véve – egyik hónapban sem lehet alacsonyabb a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított kötelező legkisebb munkabér (minimálbér) adott hónapra érvényes összegénél.
 >
@@ -318,7 +318,7 @@ A rövid, egymondatos szakasz a képviselői tiszteletdíj adójogi és társada
 
 **A rendelkezés szövege:**
 
-> ⁽³⁴³⁾ A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény vagy jogszabály alapján személygépkocsit használ.
+> (1)⁽³⁴³⁾ A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény vagy jogszabály alapján személygépkocsit használ.
 >
 > (2)⁽³⁴⁴⁾ Az üzemanyagkártya feltöltése havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási alapnorma-átalány vehető figyelembe.
 >
@@ -416,7 +416,7 @@ A (3)–(5) bekezdés a felhasználható üzemanyag mennyiségét a képviselő 
 
 **A rendelkezés szövege:**
 
-> ⁽³⁵⁴⁾ A képviselő kérelmére az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van. A képviselő akkor is jogosult lakóház vagy lakás használatára, ha a képviselő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
+> (1)⁽³⁵⁴⁾ A képviselő kérelmére az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van. A képviselő akkor is jogosult lakóház vagy lakás használatára, ha a képviselő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
 >
 > (1a)⁽³⁵⁵⁾ Ha a képviselő közjogi tisztségviselőként lakáshasználatra vagy budapesti lakhatásával összefüggésben támogatásra vagy egyéb juttatásra jogosult, az (1) bekezdés alapján kérheti az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatát, amennyiben a közjogi tisztségviselőként őt megillető lakhatással kapcsolatos jogosultságairól lemond.
 >
@@ -470,7 +470,7 @@ A (2) bekezdés a finanszírozás módját rendezi: ha a Hivatal nem saját vagy
 
 **A rendelkezés szövege:**
 
-> ⁽³⁶²⁾ A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely magában foglalja az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
+> (1)⁽³⁶²⁾ A képviselő választókerületének székhelyén, illetve a választókerületben általa meghatározott településen, fővárosi egyéni választókerületben megválasztott képviselő esetében a képviselő által a választókerületben meghatározott helyen, az országos listán megválasztott képviselő esetében az általa megválasztott településen a képviselői tevékenység ellátására alkalmas az Országgyűlés Hivatala által biztosított, egy vagy több ingatlanban megvalósuló irodai elhelyezésre jogosult, amely magában foglalja az iroda vagy irodák működtetésével – így különösen a földgáz, villamos energia, ivóvíz, távhő, csatorna- és hulladékkezelési szolgáltatások beszerzésével – összefüggő kiadások biztosítását, valamint a képviselő által képviselői tevékenységének ellátásához igénybe vehető telefonszolgáltatást, internetszolgáltatást, műsorterjesztési szolgáltatást, telefaxszolgáltatást (a továbbiakban együtt: elektronikus hírközlési szolgáltatások).
 >
 > (1a)⁽³⁶³⁾ Bármely képviselő, illetve közeli hozzátartozója, valamint a (3) bekezdésben meghatározott személyek, illetve közeli hozzátartozóik tulajdonában lévő ingatlan, továbbá e személyek
 >
@@ -524,7 +524,7 @@ A (3)–(4) bekezdés a képviselő tevékenységét segítő, az Országgyűlé
 
 **A rendelkezés szövege:**
 
-> ⁽³⁶⁹⁾ A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
+> (1)⁽³⁶⁹⁾ A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
 >
 > (2)⁽³⁷⁰⁾ A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 80%-ának megfelelő összeget biztosít.
 >
@@ -632,7 +632,7 @@ A (6)–(7) bekezdés lehetővé teszi, hogy a képviselő a 111. § (1) bekezd�
 
 **A rendelkezés szövege:**
 
-> ⁽³⁸⁴⁾ A képviselőcsoport a működésével járó kiadásokra havonta
+> (1)⁽³⁸⁴⁾ A képviselőcsoport a működésével járó kiadásokra havonta
 >
 > a) a 104. § (1) bekezdésében meghatározott tiszteletdíj tízszeresének, valamint
 >
@@ -666,7 +666,7 @@ A szakasz nyitja meg a 38. alcímet, amely a képviselőcsoportok működési fe
 
 **A rendelkezés szövege:**
 
-> A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
+> (1) A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
 >
 > a)⁽³⁸⁹⁾ térítésmentesen az Országházban vagy az Országgyűlés Hivatala elhelyezésére szolgáló épületekben irodákra,
 >
@@ -692,7 +692,7 @@ A szakasz a képviselőcsoport – és a (2) bekezdés alapján a független ké
 
 **A rendelkezés szövege:**
 
-> A képviselőcsoport jogosult arra, hogy működését az Országgyűlés Hivatalánál foglalkoztatott személyek segítsék, akik munkavégzésének a helye a képviselőcsoport 114. § (1) bekezdése szerinti irodája.
+> (1) A képviselőcsoport jogosult arra, hogy működését az Országgyűlés Hivatalánál foglalkoztatott személyek segítsék, akik munkavégzésének a helye a képviselőcsoport 114. § (1) bekezdése szerinti irodája.
 >
 > (2)⁽³⁹¹⁾ A képviselőcsoport működését
 >
@@ -780,7 +780,7 @@ A szakasz a képviselőcsoport, illetve a független képviselő által a 113. �
 
 **A rendelkezés szövege:**
 
-> A képviselőcsoport a 113. § (1) és (1a) bekezdése, valamint a 114. § szerinti keretek terhére a 104. § (1) bekezdésében meghatározott tiszteletdíj tizenkétszeresét meg nem haladó egyedi bekerülési értékű immateriális jószág, tárgyi eszköz beszerzésére jogosult.
+> (1) A képviselőcsoport a 113. § (1) és (1a) bekezdése, valamint a 114. § szerinti keretek terhére a 104. § (1) bekezdésében meghatározott tiszteletdíj tizenkétszeresét meg nem haladó egyedi bekerülési értékű immateriális jószág, tárgyi eszköz beszerzésére jogosult.
 >
 > (2) A független képviselő esetében az (1) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
@@ -804,7 +804,7 @@ A rövid szakasz a 113–115. §-ban meghatározott, a képviselőcsoportok műk
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁰⁸⁾ A képviselőcsoport vezetője a 112. § (4) bekezdése szerint rá átruházott keret, illetve a 113. § (1) és (1a) bekezdésében, a 114. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretek hó végi maradványait év közben átcsoportosíthatja.
+> (1)⁽⁴⁰⁸⁾ A képviselőcsoport vezetője a 112. § (4) bekezdése szerint rá átruházott keret, illetve a 113. § (1) és (1a) bekezdésében, a 114. § (3) bekezdésében és a 115. § (4) és (6) bekezdésében meghatározott keretek hó végi maradványait év közben átcsoportosíthatja.
 >
 > (2)⁽⁴⁰⁹⁾ A 112. § (4) bekezdése szerint a képviselőcsoport vezetőjére átruházott keret és a 115. § (4) és (6) bekezdésében meghatározott keret javára történő átcsoportosítás esetén az Országgyűlés Hivatalának főigazgatója az átcsoportosított összeg erejéig az Országgyűlés Hivatala dologi kiadások és személyi juttatások költségvetési kiadási előirányzata között átcsoportosítást hajthat végre, és ennek keretében a személyi juttatások költségvetési kiadási előirányzatot az átcsoportosított összeg erejéig növelheti.
 >
@@ -856,7 +856,7 @@ A szakasz szövege nem hatályos. A lábjegyzet szerint azt a 2022: XVIII. törv
 
 **A rendelkezés szövege:**
 
-> Ha a képviselő megbízatása az Országgyűlés megbízatásának megszűnésével szűnik meg, a volt képviselő további három hónapon keresztül a tiszteletdíjának a megbízatása megszűnését megelőző háromhavi átlagának megfelelő összegű ellátásra jogosult.
+> (1) Ha a képviselő megbízatása az Országgyűlés megbízatásának megszűnésével szűnik meg, a volt képviselő további három hónapon keresztül a tiszteletdíjának a megbízatása megszűnését megelőző háromhavi átlagának megfelelő összegű ellátásra jogosult.
 >
 > (2) A volt képviselő kérelmére az ellátást egy összegben kell kifizetni.
 >
@@ -892,7 +892,7 @@ A szakasz nyitja meg a 40. alcímet, amely a házelnök és a volt házelnök ja
 
 **A rendelkezés szövege:**
 
-> Ha a házelnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
+> (1) Ha a házelnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
 >
 > (2) A volt házelnök juttatásaira – a 122. §-ban foglalt eltérésekkel – a volt miniszterelnök juttatásaira vonatkozó szabályokat kell alkalmazni.
 
@@ -904,7 +904,7 @@ Az (1) bekezdés szerint a megbízatását befejező házelnök jogosult a tiszt
 
 **A rendelkezés szövege:**
 
-> A házelnököt és a volt házelnököt megillető juttatások igénybevételével kapcsolatban felmerült költségek fedezetét – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza.
+> (1) A házelnököt és a volt házelnököt megillető juttatások igénybevételével kapcsolatban felmerült költségek fedezetét – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza.
 >
 > (2) A juttatások biztosításához szükséges megállapodásokat az Országgyűlés Hivatala köti meg.
 >

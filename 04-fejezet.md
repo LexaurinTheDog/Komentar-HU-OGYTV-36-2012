@@ -6,7 +6,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽²⁴⁸⁾ Az Alaptörvény, törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+> (1)⁽²⁴⁸⁾ Az Alaptörvény, törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
 >
 > (2) A határidőket órákban vagy napokban kell számítani, kivéve, amikor a házszabályi rendelkezések ülést vagy ülésnapot említenek. Az ülésnap az elfogadott napirenden szereplő napirendi pontok megtárgyalásáig tart.
 >
@@ -34,7 +34,7 @@ A VI/A. Fejezet a házszabályi rendelkezések alkalmazásában irányadó, egys
 
 **A rendelkezés szövege:**
 
-> ⁽²⁴⁹⁾ A képviselő bíróság vagy hatóság előtt – megválasztása napjától képviselői megbízatásának ideje alatt és azt követően – nem vonható felelősségre leadott szavazata, továbbá a képviselői megbízatásának gyakorlása során a képviselői megbízatásával összefüggésben általa közölt tény vagy vélemény miatt.
+> (1)⁽²⁴⁹⁾ A képviselő bíróság vagy hatóság előtt – megválasztása napjától képviselői megbízatásának ideje alatt és azt követően – nem vonható felelősségre leadott szavazata, továbbá a képviselői megbízatásának gyakorlása során a képviselői megbízatásával összefüggésben általa közölt tény vagy vélemény miatt.
 >
 > (2)⁽²⁵⁰⁾ Az (1) bekezdésben meghatározott mentesség nem vonatkozik a képviselők polgári jogi felelősségére és a következő bűncselekményekre:
 >
@@ -54,7 +54,7 @@ A szakasz a képviselői mentelmi jog anyagi jogi (indemnitási) elemét szabál
 
 **A rendelkezés szövege:**
 
-> ⁽²⁵¹⁾ A képviselő ellen csak az Országgyűlés előzetes hozzájárulásával lehet büntetőeljárást, valamint – a mentelmi jogról az adott ügyre vonatkozó önkéntes lemondás hiányában – szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
+> (1)⁽²⁵¹⁾ A képviselő ellen csak az Országgyűlés előzetes hozzájárulásával lehet büntetőeljárást, valamint – a mentelmi jogról az adott ügyre vonatkozó önkéntes lemondás hiányában – szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
 >
 > (2) A képviselőt csak
 >
@@ -104,7 +104,7 @@ A szakasz két, egymást kiegészítő bejelentési kötelezettséget ír elő. 
 
 **A rendelkezés szövege:**
 
-> ⁽²⁵⁶⁾ A mentelmi jog felfüggesztésére irányuló indítványt, illetve a mentelmi jog megsértésének bejelentését a házelnök haladéktalanul átadja megvizsgálásra a Mentelmi Bizottságnak, és ezt az Országgyűlés következő ülésnapján bejelenti, valamint tájékoztatja az átadásról az érintett képviselőt.
+> (1)⁽²⁵⁶⁾ A mentelmi jog felfüggesztésére irányuló indítványt, illetve a mentelmi jog megsértésének bejelentését a házelnök haladéktalanul átadja megvizsgálásra a Mentelmi Bizottságnak, és ezt az Országgyűlés következő ülésnapján bejelenti, valamint tájékoztatja az átadásról az érintett képviselőt.
 >
 > (2)⁽²⁵⁷⁾ A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során a mentelmi jog felfüggesztésével és a mentelmi jog megsértésével összefüggő, a Mentelmi Bizottság által kért adatokat a képviselő és minden állami szerv köteles haladéktalanul a Mentelmi Bizottság rendelkezésére bocsátani. A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során átvett, illetve rendelkezésre bocsátott adatokat a mentelmi jog felfüggesztésére irányuló eljárás és a mentelmi jog megsértése miatti vizsgálat lezárulását követő harmincadik napon törölni kell.
 >
@@ -140,7 +140,7 @@ A rendelkezés a mentelmi jog kógens jellegét mondja ki: a képviselő – a s
 
 **A rendelkezés szövege:**
 
-> A mentelmi jog a képviselőt a megválasztása napjától illeti meg.
+> (1) A mentelmi jog a képviselőt a megválasztása napjától illeti meg.
 >
 > (2)⁽²⁶¹⁾ A képviselők választásán jelöltként jogerősen nyilvántartásba vett személyt – a (3) bekezdésben meghatározott kivétellel – a választás eredményének jogerőre emelkedéséig a képviselőkkel azonos mentelmi jog illeti meg azzal az eltéréssel, hogy a mentelmi jog felfüggesztéséről a Nemzeti Választási Bizottság határoz, és a mentelmi jog felfüggesztésére irányuló indítványt a Nemzeti Választási Bizottság elnökéhez kell benyújtani.
 >
@@ -164,7 +164,7 @@ A szakasz a mentelmi jog időbeli és személyi hatályát pontosítja. Az (1) b
 
 **A rendelkezés szövege:**
 
-> ⁽²⁶⁵⁾ A képviselői megbízatás – a (2), (2a) és (2b) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+> (1)⁽²⁶⁵⁾ A képviselői megbízatás – a (2), (2a) és (2b) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 >
 > (2)⁽²⁶⁶⁾ A képviselő miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 >
@@ -296,7 +296,7 @@ A rendelkezés időben elhúzódó, a megbízatás megszűnése utáni két évr
 
 **A rendelkezés szövege:**
 
-> ⁽²⁸²⁾
+> (1)⁽²⁸²⁾
 >
 > (2) A képviselő szakmai vagy üzleti ügyben képviselői minőségére nem hivatkozhat.
 >
@@ -312,7 +312,7 @@ Az (1) bekezdést a 2014: XVIII. törvény hatályon kívül helyezte. A hatály
 
 **A rendelkezés szövege:**
 
-> A képviselő a képviselői megbízatásával összefüggésben tartózkodik bármely ajándék vagy hasonló juttatás elfogadásától, kivéve, ha azt az udvariassági szokásoknak megfelelően adják és becsült értéke nem éri el a 104. § (1) bekezdése szerinti képviselői tiszteletdíj 5%-át, vagy ha azt az Országgyűlés hivatalos képviseletében eljárva kapja.
+> (1) A képviselő a képviselői megbízatásával összefüggésben tartózkodik bármely ajándék vagy hasonló juttatás elfogadásától, kivéve, ha azt az udvariassági szokásoknak megfelelően adják és becsült értéke nem éri el a 104. § (1) bekezdése szerinti képviselői tiszteletdíj 5%-át, vagy ha azt az Országgyűlés hivatalos képviseletében eljárva kapja.
 >
 > (2) Egy képviselő akkor jár el az Országgyűlés hivatalos képviseletében, ha
 >
@@ -386,7 +386,7 @@ A szakasz szövege nem hatályos: a rendelkezést a 2019: CVIII. törvény iktat
 
 **A rendelkezés szövege:**
 
-> ⁽²⁸⁷⁾ A képviselő az eskütételét követő harminc napon belül, majd azt követően minden évben január 31-ig az előző év december 31. napján fennálló állapot szerint, valamint a megbízatásának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az 1. melléklet szerinti adattartalommal.
+> (1)⁽²⁸⁷⁾ A képviselő az eskütételét követő harminc napon belül, majd azt követően minden évben január 31-ig az előző év december 31. napján fennálló állapot szerint, valamint a megbízatásának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az 1. melléklet szerinti adattartalommal.
 >
 > (1a)⁽²⁸⁸⁾ A vagyonnyilatkozatokat elektronikus formában kell benyújtani, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítást követően igénybe vehető felületen. Ez a rendelkezés alkalmazandó a törvény alapján az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett személy és vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozó (a továbbiakban: családtag) vagyonnyilatkozatára is, azzal, hogy a családtag vagyonnyilatkozatát a vagyonnyilatkozat-tételre kötelezett személy a vagyonnyilatkozatához csatoltan nyújtja be.
 >
@@ -422,7 +422,7 @@ A szakasz a vagyonnyilatkozat-tételi kötelezettség időbeli és tartalmi kere
 
 **A rendelkezés szövege:**
 
-> A képviselő az eskütételétől vagy az összeférhetetlen helyzet keletkezésétől, illetve annak a képviselő tudomására jutásától számított harminc napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, és erről haladéktalanul tájékoztatni a házelnököt. A képviselő az összeférhetetlenség fennállása alatt az Országgyűlés és az országgyűlési bizottságok ülésén tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be és javadalmazásra sem jogosult.
+> (1) A képviselő az eskütételétől vagy az összeférhetetlen helyzet keletkezésétől, illetve annak a képviselő tudomására jutásától számított harminc napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, és erről haladéktalanul tájékoztatni a házelnököt. A képviselő az összeférhetetlenség fennállása alatt az Országgyűlés és az országgyűlési bizottságok ülésén tanácskozási, szavazati és a 98. § (1) és (2) bekezdése szerinti jogát nem gyakorolhatja, indítványt nem nyújthat be és javadalmazásra sem jogosult.
 >
 > (2) Az (1) bekezdéstől eltérően, ha a képviselővel szemben fennálló összeférhetetlenségi ok megszűnését eredményező intézkedés meghozatala más szerv vagy szervezet hatáskörébe tartozik, a képviselő az (1) bekezdés szerinti határidőben köteles az összeférhetetlenségi ok megszüntetését az erre vonatkozó szabályoknak megfelelően kezdeményezni, és a megszüntetés kezdeményezését haladéktalanul és hitelt érdemlően bejelenteni a házelnöknek. A bejelentés napjától az összeférhetetlenség fennállása alatt a képviselő csak a szavazati jogát nem gyakorolhatja. A képviselő az összeférhetetlenségi ok megszűnéséről – az azt eredményező intézkedés tudomására jutását követően haladéktalanul – tájékoztatja a házelnököt.
 >
@@ -438,7 +438,7 @@ A szakasz az összeférhetetlenségi ok megszüntetésének általános eljárá
 
 **A rendelkezés szövege:**
 
-> Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását.
+> (1) Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását.
 >
 > (2) A Mentelmi Bizottság elnöke nem indítja meg az összeférhetetlenségi eljárást, és erről tájékoztatja a Mentelmi Bizottságot, ha
 >
@@ -468,7 +468,7 @@ A rendelkezés az összeférhetetlenségi bejelentés benyújtásának és előz
 
 **A rendelkezés szövege:**
 
-> Ha a Mentelmi Bizottság vizsgálata alapján az összeférhetetlenség fennáll, a Mentelmi Bizottság a 92. § (4) bekezdése szerinti határidőben az összeférhetetlenség kimondására irányuló határozati javaslatot nyújt be az Országgyűléshez. A határozati javaslat tartalmazza, hogy az összeférhetetlenség kimondásával egyidejűleg a képviselői megbízatás megszűnik. Az Országgyűlés az összeférhetetlenség kimondására irányuló határozati javaslat benyújtásától számított 30 napon belül határoz az összeférhetetlenség kimondásáról. E határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
+> (1) Ha a Mentelmi Bizottság vizsgálata alapján az összeférhetetlenség fennáll, a Mentelmi Bizottság a 92. § (4) bekezdése szerinti határidőben az összeférhetetlenség kimondására irányuló határozati javaslatot nyújt be az Országgyűléshez. A határozati javaslat tartalmazza, hogy az összeférhetetlenség kimondásával egyidejűleg a képviselői megbízatás megszűnik. Az Országgyűlés az összeférhetetlenség kimondására irányuló határozati javaslat benyújtásától számított 30 napon belül határoz az összeférhetetlenség kimondásáról. E határidő számításánál a rendes ülésszakok közötti időtartamot figyelmen kívül kell hagyni.
 >
 > (2) Ha a Mentelmi Bizottság vizsgálata alapján összeférhetetlenség nem áll fenn, erről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, az érintett képviselőt, valamint a bejelentőt, és az összeférhetetlenségi eljárás megszűnik. A házelnök a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 >
@@ -486,7 +486,7 @@ A szakasz az összeférhetetlenségi eljárás érdemi lezárását szabályozza
 
 **A rendelkezés szövege:**
 
-> A 88. §-ban meghatározott összeférhetetlenség esetén az eljárásra a (2)–(4) bekezdés rendelkezéseit kell alkalmazni.
+> (1) A 88. §-ban meghatározott összeférhetetlenség esetén az eljárásra a (2)–(4) bekezdés rendelkezéseit kell alkalmazni.
 >
 > (2) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy véglegessé vált határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt.
 >
@@ -516,7 +516,7 @@ A rendelkezés a 86. § (2)–(3) bekezdése (a képviselői minőségre való j
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés az összeférhetetlenség kimondásáról szóló és a jogsértés tényének megállapításáról szóló határozatát a Magyar Közlönyben közzéteszi.
+> (1) Az Országgyűlés az összeférhetetlenség kimondásáról szóló és a jogsértés tényének megállapításáról szóló határozatát a Magyar Közlönyben közzéteszi.
 >
 > (2) Ha az Országgyűlés határozata alapján a képviselő megbízatása megszűnik, a képviselő köteles
 >
@@ -536,7 +536,7 @@ A szakasz az összeférhetetlenségi és jogsértést megállapító határozato
 
 **A rendelkezés szövege:**
 
-> ⁽²⁹⁹⁾ A vagyonnyilatkozatokról a nyilvántartást a Mentelmi Bizottság vezeti.
+> (1)⁽²⁹⁹⁾ A vagyonnyilatkozatokról a nyilvántartást a Mentelmi Bizottság vezeti.
 >
 > (2)⁽³⁰⁰⁾ A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat – illetve az ahhoz esetlegesen kapcsolódó helyesbítést tartalmazó kiegészítő nyilatkozat – nyilvános másolatát a Mentelmi Bizottság a vagyonnyilatkozat-tétel határidejének lejártát követően az Országgyűlés honlapján haladéktalanul közzéteszi, amelyhez bárki ingyenesen és korlátozás – így különösen regisztrációs kötelezettség – nélkül hozzáférhet. A vagyonnyilatkozat a honlapról a képviselő megbízatásának megszűnését követő három év elteltével távolítható el. A 2022. augusztus 1-jén vagy azt követően tett vagyonnyilatkozatok esetében a hozzáférést kereshető módon is biztosítani kell az egyes országgyűlési képviselők, valamint törvény szerint az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályok szerint vagyonnyilatkozat-tételre kötelezett más személyek vonatkozásában.
 >
@@ -576,7 +576,7 @@ A szakasz a vagyonnyilatkozatok nyilvántartásának és nyilvánosságának ren
 
 **A rendelkezés szövege:**
 
-> A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. A kezdeményezésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
+> (1) A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. A kezdeményezésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
 >
 > (1a)⁽³⁰⁸⁾ A Mentelmi Bizottság elnöke a képviselő vagyonnyilatkozatával kapcsolatos eljárást akkor is megindítja, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a képviselő a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
 >
@@ -628,7 +628,7 @@ A szakasz a vagyonnyilatkozat tartalmának vitatására irányuló eljárást sz
 
 **A rendelkezés szövege:**
 
-> ⁽³¹¹⁾ A képviselőjelöltet jelöltségének nyilvántartásba vételétől a választás napjáig, vagy megválasztása esetén az eskütétele napját megelőző napig a munkáltató – kérésére – köteles fizetés nélküli szabadságban részesíteni.
+> (1)⁽³¹¹⁾ A képviselőjelöltet jelöltségének nyilvántartásba vételétől a választás napjáig, vagy megválasztása esetén az eskütétele napját megelőző napig a munkáltató – kérésére – köteles fizetés nélküli szabadságban részesíteni.
 >
 > (2) A fizetés nélküli szabadság időtartama nyugdíjra jogosító szolgálati időnek számít.
 >
@@ -644,7 +644,7 @@ A szakasz a képviselőjelöltek munkajogi védelmét szolgálja a választási 
 
 **A rendelkezés szövege:**
 
-> ⁽³¹²⁾
+> (1)⁽³¹²⁾
 >
 > (2)⁽³¹³⁾ A képviselőt az eskütétele napjától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 >
@@ -664,7 +664,7 @@ A szakasz a megválasztott képviselők, illetve korábbi közszolgálati jogvis
 
 **A rendelkezés szövege:**
 
-> ⁽³¹⁵⁾ A képviselői tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (2) bekezdése szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, adó- és vámhatósági szolgálati, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
+> (1)⁽³¹⁵⁾ A képviselői tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (2) bekezdése szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, köznevelési foglalkoztatotti, adó- és vámhatósági szolgálati, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 >
 > (2)⁽³¹⁶⁾ A képviselői, illetve a háznagyi tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (2) bekezdése szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 >

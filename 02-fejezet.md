@@ -18,7 +18,7 @@ A rendelkezés a vizsgálóbizottságra nézve utaló normaként rendeli alkalma
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottság – a vizsgálóbizottság kivételével – saját elhatározása alapján folytathat vizsgálatot valamely feladatkörét érintő olyan ügyben, amelynek megvizsgálására az Országgyűlés a 24. § (1) bekezdése alapján vizsgálóbizottságot küldhet ki.
+> (1) Az országgyűlési bizottság – a vizsgálóbizottság kivételével – saját elhatározása alapján folytathat vizsgálatot valamely feladatkörét érintő olyan ügyben, amelynek megvizsgálására az Országgyűlés a 24. § (1) bekezdése alapján vizsgálóbizottságot küldhet ki.
 >
 > (2) Az állandó bizottság vizsgálati tevékenységére – ha törvény eltérően nem rendelkezik – a 25. §-t és a 26. §-t kell alkalmazni.
 >
@@ -54,7 +54,7 @@ A szakasz azt az esetet szabályozza, amikor az Alaptörvény, törvény vagy or
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottság akkor határozatképes, ha a bizottsági tagok több mint fele jelen van. A határozatképesség szempontjából a képviseleti megbízást adó bizottsági tagot jelenlévőnek kell tekinteni.
+> (1) Az országgyűlési bizottság akkor határozatképes, ha a bizottsági tagok több mint fele jelen van. A határozatképesség szempontjából a képviseleti megbízást adó bizottsági tagot jelenlévőnek kell tekinteni.
 >
 > (2) Az országgyűlési bizottság a határozatait – ha a házszabályi rendelkezések eltérően nem rendelkeznek – a jelen lévő bizottsági tagok több mint felének szavazatával hozza.
 >
@@ -76,7 +76,7 @@ A (3) bekezdés a tanácskozóképesség önálló, a határozatképességnél a
 
 **A rendelkezés szövege:**
 
-> Az
+> (1) Az
 >
 > a) Országgyűlés, az Országház és a Parlament elnevezés,
 >
@@ -136,7 +136,7 @@ A szakasz a jelkép hozzájárulás nélküli, szabad felhasználásának esetei
 
 **A rendelkezés szövege:**
 
-> A jelkép 27/E. §-ban nem szabályozott használatához hozzájárulás szükséges. A hozzájárulásról a Kiemelt Nemzeti Emlékhely Bizottság az e Fejezetben meghatározott eljárás során, egyfokú eljárásban dönt. Az eljárás nem közigazgatási eljárás.
+> (1) A jelkép 27/E. §-ban nem szabályozott használatához hozzájárulás szükséges. A hozzájárulásról a Kiemelt Nemzeti Emlékhely Bizottság az e Fejezetben meghatározott eljárás során, egyfokú eljárásban dönt. Az eljárás nem közigazgatási eljárás.
 >
 > (2) Az (1) bekezdés szerinti hozzájárulásra vonatkozó kérelmet a Kiemelt Nemzeti Emlékhely Bizottság elnökének címezve az Országgyűlés Hivatalához kell benyújtani.
 >
@@ -180,7 +180,7 @@ A (4) bekezdés a döntéshozatal érdemi szempontjait rögzíti: a Bizottság e
 
 **A rendelkezés szövege:**
 
-> Aki
+> (1) Aki
 >
 > a) a jelkép használatához nem kapta meg a hozzájárulást,
 >
@@ -200,7 +200,7 @@ A szakasz a jogosulatlan jelképhasználat fogalmát határozza meg három, vagy
 
 **A rendelkezés szövege:**
 
-> Ha
+> (1) Ha
 >
 > a) a jelkép használatához a kérelmező nem kapta meg a hozzájárulást,
 >
@@ -230,7 +230,7 @@ A (2) bekezdés a bíróság rendelkezésére álló három marasztalási formá
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés Hivatala a jogosulatlan jelképhasználatról való tudomásszerzéstől számított hatvan napon belül – legalább harmincnapos határidő tűzésével – felszólítja a jogosulatlan jelképhasználót a jelkép használatának megszüntetésére, vagy – a 27/G. § (1) bekezdés c) pontja szerinti esetben – a jelkép használatára adott hozzájárulást megalapozó kérelemben foglaltaknak megfelelő használatára.
+> (1) Az Országgyűlés Hivatala a jogosulatlan jelképhasználatról való tudomásszerzéstől számított hatvan napon belül – legalább harmincnapos határidő tűzésével – felszólítja a jogosulatlan jelképhasználót a jelkép használatának megszüntetésére, vagy – a 27/G. § (1) bekezdés c) pontja szerinti esetben – a jelkép használatára adott hozzájárulást megalapozó kérelemben foglaltaknak megfelelő használatára.
 >
 > (2) Az Országgyűlés Hivatala – az (1) bekezdés szerinti felszólítás teljesítésére nyitva álló határidő eredménytelen elteltét követő harminc napon belül – a jogosulatlan jelképhasználóval szemben a Polgári Törvénykönyvnek a személyiségi jogok megsértésére irányadó rendelkezései megfelelő alkalmazásával követelheti
 >
@@ -260,7 +260,7 @@ A (2) bekezdés a felszólítás eredménytelensége esetére – a felszólít�
 
 **A rendelkezés szövege:**
 
-> A képviselő joga és kötelessége, hogy kezdeményezően részt vegyen az Országgyűlés munkájában, elősegítse annak eredményes működését. Kötelessége részt venni az Országgyűlés ülésein, továbbá annak az országgyűlési bizottságnak az ülésein, amelynek tagja.
+> (1) A képviselő joga és kötelessége, hogy kezdeményezően részt vegyen az Országgyűlés munkájában, elősegítse annak eredményes működését. Kötelessége részt venni az Országgyűlés ülésein, továbbá annak az országgyűlési bizottságnak az ülésein, amelynek tagja.
 >
 > (2)⁽¹¹²⁾ A képviselő az Országgyűlés szavazásain köteles jelen lenni. Az Országgyűlés szavazásain jelen lévőnek a szavazásban – a házszabályi rendelkezések szerint – részt vevő képviselőt kell tekinteni.
 >
@@ -304,7 +304,7 @@ Az (5) bekezdés a személyes joggyakorlás elvét mondja ki – a képviselő a
 
 **A rendelkezés szövege:**
 
-> ⁽¹¹⁹⁾ A nemzetiségi szószólók jogai és kötelezettségei egyenlők, tevékenységüket a köz és az adott nemzetiség érdekében végzik, e tekintetben nem utasíthatók.
+> (1)⁽¹¹⁹⁾ A nemzetiségi szószólók jogai és kötelezettségei egyenlők, tevékenységüket a köz és az adott nemzetiség érdekében végzik, e tekintetben nem utasíthatók.
 >
 > (2)⁽¹²⁰⁾ A nemzetiségi szószóló az Országgyűlés ülésén felszólalhat, ha a Házbizottság megítélése szerint a napirendi pont a nemzetiségek érdekeit, jogait érinti. Rendkívüli ügyben a nemzetiségi szószóló a napirendi pontok tárgyalását követően – a határozati házszabályi rendelkezésekben meghatározott módon – felszólalhat. A nemzetiségi szószóló az Országgyűlés ülésein szavazati joggal nem rendelkezik.
 >
@@ -332,7 +332,7 @@ A (3) bekezdés a bizottsági részvétel differenciált rendjét állapítja me
 
 **A rendelkezés szövege:**
 
-> ⁽¹²⁴⁾ A nemzetiségi szószólót mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
+> (1)⁽¹²⁴⁾ A nemzetiségi szószólót mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
 >
 > (2)⁽¹²⁵⁾ A nemzetiségi szószóló megbízatása megszűnik
 >
@@ -382,7 +382,7 @@ Az (5) bekezdés önálló összeférhetetlenségi szabályként rögzíti, hogy
 
 **A rendelkezés szövege:**
 
-> A képviselők általános választásán megválasztott képviselők a megbízólevelüket az Országgyűlés alakuló ülését megelőzően a köztársasági elnöknek nyújtják be.
+> (1) A képviselők általános választásán megválasztott képviselők a megbízólevelüket az Országgyűlés alakuló ülését megelőzően a köztársasági elnöknek nyújtják be.
 >
 > (2) Az időközi választáson megválasztott, valamint listáról üresedés miatt kijelölt képviselő megbízólevelét a házelnöknek nyújtja be.
 
@@ -394,7 +394,7 @@ A szakasz a megbízólevél benyújtásának rendjét szabályozza a megbízatá
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés alakuló ülését a köztársasági elnök nyitja meg, ezt követően tájékoztatást ad a megbízólevelek átvételéről.
+> (1) Az Országgyűlés alakuló ülését a köztársasági elnök nyitja meg, ezt követően tájékoztatást ad a megbízólevelek átvételéről.
 >
 > (2)⁽¹³⁰⁾ A korelnök és a korjegyzők hivatalba lépése után a Nemzeti Választási Bizottság elnöke és a Nemzeti Választási Iroda elnöke a választási eljárásról szóló törvényben meghatározottak szerint beszámol a képviselők általános választásáról az Országgyűlésnek.
 >
@@ -432,7 +432,7 @@ A rendelkezés az Országgyűlés üléseinek szervezeti egységeit határozza m
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés ülésszakait és üléseit a házelnök hívja össze. A házelnök – a 11. § (1) bekezdés a) pontjára is figyelemmel – úgy köteles összehívni az üléseket, hogy az Országgyűlés rendszeres ülésezése során az ülésszakok alatt az ülések ésszerű időtartamban kövessék egymást, biztosítva ezáltal az Országgyűlés Alaptörvényben meghatározott feladatainak maradéktalan ellátását.
+> (1) Az Országgyűlés ülésszakait és üléseit a házelnök hívja össze. A házelnök – a 11. § (1) bekezdés a) pontjára is figyelemmel – úgy köteles összehívni az üléseket, hogy az Országgyűlés rendszeres ülésezése során az ülésszakok alatt az ülések ésszerű időtartamban kövessék egymást, biztosítva ezáltal az Országgyűlés Alaptörvényben meghatározott feladatainak maradéktalan ellátását.
 >
 > (2) Az Országgyűlés ülésének napirendjére vonatkozó javaslatot legkésőbb az ülést megelőző 72 órával, ha egy naptári héten belülre több ülés összehívása szükséges, legkésőbb az ülést megelőző 48 órával korábban közzé kell tenni.
 
@@ -446,7 +446,7 @@ A szakasz az Országgyűlés üléseinek összehívási rendjét szabályozza. A
 
 **A rendelkezés szövege:**
 
-> A köztársasági elnök, a Kormány vagy a képviselők egyötödének írásbeli kérelmére az Országgyűlést rendkívüli ülésszakra vagy rendkívüli ülésre össze kell hívni. A kérelemben az összehívás indokát, továbbá a javasolt időpontot és napirendet meg kell jelölni. A házelnöknek lehetőleg a javasolt, de legkésőbb az azt követő nyolc napon belüli időpontra kell az Országgyűlést összehívnia.
+> (1) A köztársasági elnök, a Kormány vagy a képviselők egyötödének írásbeli kérelmére az Országgyűlést rendkívüli ülésszakra vagy rendkívüli ülésre össze kell hívni. A kérelemben az összehívás indokát, továbbá a javasolt időpontot és napirendet meg kell jelölni. A házelnöknek lehetőleg a javasolt, de legkésőbb az azt követő nyolc napon belüli időpontra kell az Országgyűlést összehívnia.
 >
 > (2) A házelnök rendkívüli ülésszakot vagy rendkívüli ülést hív össze az e törvényben, vagy a határozati házszabályi rendelkezésekben meghatározott esetekben.
 
@@ -458,7 +458,7 @@ A szakasz a rendkívüli ülésszak, illetve rendkívüli ülés összehívásá
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés – a Házbizottság javaslatára – Magyarország történelme szempontjából kiemelkedő jelentőségű esemény évfordulója, valamint nemzeti ünnep alkalmából ünnepi vagy emlékülést (a továbbiakban: ünnepi ülés) tarthat.
+> (1) Az Országgyűlés – a Házbizottság javaslatára – Magyarország történelme szempontjából kiemelkedő jelentőségű esemény évfordulója, valamint nemzeti ünnep alkalmából ünnepi vagy emlékülést (a továbbiakban: ünnepi ülés) tarthat.
 >
 > (2) Az ünnepi ülés programját az Országgyűlés a napirend elfogadásával állapítja meg.
 
@@ -472,7 +472,7 @@ A szakasz az ünnepi vagy emlékülés tartásának lehetőségét teremti meg: 
 
 **A rendelkezés szövege:**
 
-> A köztársasági elnök az Országgyűlés ülését egy ülésszak alatt egy alkalommal – legfeljebb harminc napra – elnapolhatja. Az elnapolást a házelnöknél kell írásban bejelenteni.
+> (1) A köztársasági elnök az Országgyűlés ülését egy ülésszak alatt egy alkalommal – legfeljebb harminc napra – elnapolhatja. Az elnapolást a házelnöknél kell írásban bejelenteni.
 >
 > (2) Az elnapolás tartama alatt a házelnök a képviselők egyötödének írásbeli kérelmére – a kérelem kézhezvételétől számított nyolc napnál nem távolabbi időpontra – köteles az Országgyűlés ülését összehívni.
 
@@ -508,7 +508,7 @@ A szakasz a Kormány tájékoztatási kötelezettségét írja elő: a Kormány 
 
 **A rendelkezés szövege:**
 
-> Országgyűlés ülésén vagy bizottsági ülésen – a (2)–(3) bekezdésben meghatározottak kivételével – tárgyi, képi vagy hanghordozó útján történő szemléltetés (a továbbiakban: szemléltetés) nem alkalmazható.
+> (1) Országgyűlés ülésén vagy bizottsági ülésen – a (2)–(3) bekezdésben meghatározottak kivételével – tárgyi, képi vagy hanghordozó útján történő szemléltetés (a továbbiakban: szemléltetés) nem alkalmazható.
 >
 > (2) Az Országgyűlés ülésén történő szemléltetést a Házbizottság engedélyezi. Szemléltetés engedélyezésére vonatkozó kérelem legkésőbb a Házbizottság ülésének megkezdése előtt egy órával nyújtható be.
 >
@@ -528,7 +528,7 @@ A szakasz a 14/A. alcím élén a tárgyi, képi vagy hanghordozó útján tört
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés és az országgyűlési bizottság ülésén a tanácskozás nyelve a magyar.
+> (1) Az Országgyűlés és az országgyűlési bizottság ülésén a tanácskozás nyelve a magyar.
 >
 > (2)⁽¹³⁶⁾ A nemzetiséghez tartozó képviselő, a nemzetiségi képviselő, valamint a nemzetiségi szószóló anyanyelvén is felszólalhat és irományt nyújthat be.
 >
@@ -554,7 +554,7 @@ A (4) bekezdés az anyanyelven benyújtott iromány mellé annak hiteles magyar 
 
 **A rendelkezés szövege:**
 
-> A képviselő felszólalása során a magyar jelnyelvet használhatja.
+> (1) A képviselő felszólalása során a magyar jelnyelvet használhatja.
 >
 > (2) Az Országgyűlés és – a képviselő kérelmére – az országgyűlési bizottság ülésén a magyar jelnyelvi tolmácsolást az Országgyűlés Hivatala biztosítja.
 
@@ -578,7 +578,7 @@ A szakasz kiterjesztő rendelkezésként mondja ki, hogy a 38/B. és a 38/C. § 
 
 **A rendelkezés szövege:**
 
-> ⁽¹³⁸⁾ A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.
+> (1)⁽¹³⁸⁾ A köztársasági elnök, a Kormány tagja, az Alkotmánybíróság elnöke, a Kúria elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat vitája során a Költségvetési Tanács elnöke, továbbá az általa benyújtott beszámoló országgyűlési vitája során az Országgyűlés előtt beszámolásra kötelezett, valamint európai uniós kérdéssel összefüggő napirend országgyűlési vitája során az Európai Parlament magyarországi képviselője (a továbbiakban együtt: tanácskozási joggal rendelkező személy) részt vehet és – az ülés lefolytatásával kapcsolatos házszabályi rendelkezések keretei között – bármikor felszólalhat az Országgyűlés ülésén.
 >
 > (2)⁽¹³⁹⁾ A napirenden lévő önálló indítvány előterjesztője vagy a helyettesítésére jogosult személy távollétében az indítványt – a (2a) bekezdésben foglalt kivétellel – az Országgyűlés nem tárgyalja.
 >
@@ -604,7 +604,7 @@ A (2) bekezdés a napirenden lévő önálló indítvány tárgyalásának felt�
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁴¹⁾ Az előterjesztő, a köztársasági elnök, a házelnök, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat tárgyalása során a Költségvetési Tanács elnöke, európai uniós kérdéssel összefüggő napirendi pontként meghatározott indítványok tárgyalása során az Európai Parlament magyarországi képviselője, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre. Az Európai Parlament magyarországi képviselője az európai uniós ügyekkel foglalkozó állandó bizottság valamennyi ülésére meghívást kap.
+> (1)⁽¹⁴¹⁾ Az előterjesztő, a köztársasági elnök, a házelnök, az alapvető jogok biztosa, az Állami Számvevőszék elnöke, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke, a központi költségvetésről szóló törvényjavaslat és a központi költségvetés módosításáról szóló törvényjavaslat tárgyalása során a Költségvetési Tanács elnöke, európai uniós kérdéssel összefüggő napirendi pontként meghatározott indítványok tárgyalása során az Európai Parlament magyarországi képviselője, az adott országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetője, külön törvényben erre feljogosított személyek, valamint – ha a tárgyalt napirendi pont feladatkörét érinti – a Kormány tagja a 14. § (1) bekezdés a) pontja szerinti bizottság ülésének összehívásával egyidejűleg meghívást kap az ülésre. Az Európai Parlament magyarországi képviselője az európai uniós ügyekkel foglalkozó állandó bizottság valamennyi ülésére meghívást kap.
 >
 > (2) Az (1) bekezdés alapján meghívott személyek tanácskozási joggal vesznek részt az ülésen, illetve a napirendi pont tárgyalásán. Az ülésen a meghívottat a helyettesítésére jogosult személy is képviselheti. Az ülésen az országgyűlési bizottságban tagsági hellyel nem rendelkező képviselőcsoport vezetőjét – egy alkalomra szóló vagy visszavonásig érvényes megbízással – a képviselőcsoport egy tagja is képviselheti. Az országgyűlési bizottság ülésén a Kormány döntésre felhatalmazott képviselője vesz részt.
 >
@@ -648,7 +648,7 @@ A szakasz a miniszterek bizottság előtti elszámoltathatóságának egyik alap
 
 **A rendelkezés szövege:**
 
-> Ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik,
+> (1) Ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik,
 >
 > a) a 39. § (1) bekezdése szerinti tanácskozási joggal rendelkező személyként részt vehet és felszólalhat az Országgyűlés ülésén, valamint
 >
@@ -670,7 +670,7 @@ A szakasz a miniszterelnöki politikai igazgató – amennyiben képviselői meg
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁴⁸⁾ Az Országgyűlés ülésének napirendjében feltüntetett időpontban interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására minden olyan héten, amikor az Országgyűlés ülést tart, legalább a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy minden olyan héten, amikor az Országgyűlés ülést tart, az ülés napirendjében feltüntetett időpontban legalább egy általa benyújtott interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja számukra az interpellációk és kérdések feltételének lehetőségét. A nemzetiségi képviselő – a Házbizottság által a független képviselők számára biztosított lehetőségen felül – rendes ülésszakonként további egy, a nemzetiségek érdekeit, jogait érintő interpelláció elmondására is jogosult, amelynek tárgyalására olyan ülésen van lehetőség, amelyen független képviselő által benyújtott interpelláció elhangzására nem kerül sor.
+> (1)⁽¹⁴⁸⁾ Az Országgyűlés ülésének napirendjében feltüntetett időpontban interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására minden olyan héten, amikor az Országgyűlés ülést tart, legalább a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy minden olyan héten, amikor az Országgyűlés ülést tart, az ülés napirendjében feltüntetett időpontban legalább egy általa benyújtott interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja számukra az interpellációk és kérdések feltételének lehetőségét. A nemzetiségi képviselő – a Házbizottság által a független képviselők számára biztosított lehetőségen felül – rendes ülésszakonként további egy, a nemzetiségek érdekeit, jogait érintő interpelláció elmondására is jogosult, amelynek tárgyalására olyan ülésen van lehetőség, amelyen független képviselő által benyújtott interpelláció elhangzására nem kerül sor.
 >
 > (2) Akihez az Alaptörvény szerint interpelláció vagy kérdés intézhető, köteles az interpellációt vagy kérdést személyesen, kivételesen helyettese útján megválaszolni.
 >
@@ -726,7 +726,7 @@ A (8)–(9) bekezdés a kérdés – mint az interpellációnál egyszerűbb esz
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁵⁶⁾ Minden olyan héten, amikor az Országgyűlés ülést tart, az Országgyűlés ülésén a napirendben feltüntetett időpontban a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani kérdés közvetlen feltevésére és megválaszolására (a továbbiakban: azonnali kérdések órája). Valamennyi képviselőcsoport számára biztosítani kell, hogy a képviselőcsoport legalább egy tagja kérdést tehessen fel.
+> (1)⁽¹⁵⁶⁾ Minden olyan héten, amikor az Országgyűlés ülést tart, az Országgyűlés ülésén a napirendben feltüntetett időpontban a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani kérdés közvetlen feltevésére és megválaszolására (a továbbiakban: azonnali kérdések órája). Valamennyi képviselőcsoport számára biztosítani kell, hogy a képviselőcsoport legalább egy tagja kérdést tehessen fel.
 >
 > (2)⁽¹⁵⁷⁾ Az azonnali kérdések órájában az Alaptörvény szerint válaszadásra kötelezettek kötelesek az ülésteremben tartózkodni. A válaszadásra kötelezett távolléte esetén – ha a határozati házszabályi rendelkezések másként nem rendelkeznek – előzetesen tájékoztatja a házelnököt a válaszadásra feljogosított személyről. A miniszterelnökhöz intézett kérdés megválaszolására a miniszterelnök – távolléte esetére – a miniszterelnök politikai igazgatóját is kijelölheti, ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik.
 >
@@ -750,7 +750,7 @@ A (3) bekezdés a személyes válaszadás kikényszerítésének mechanizmusát 
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁵⁹⁾ Az Országgyűlés által választott közjogi tisztségviselő megválasztásánál – az Alaptörvény vagy törvény eltérő rendelkezése hiányában – a házelnök nyújtja be a javaslatot a közjogi tisztségviselő személyére. A javaslatról az Országgyűlés – az (1a) bekezdésben és a 6. § (1) bekezdésében foglalt kivétellel – nyílt szavazással határoz.
+> (1)⁽¹⁵⁹⁾ Az Országgyűlés által választott közjogi tisztségviselő megválasztásánál – az Alaptörvény vagy törvény eltérő rendelkezése hiányában – a házelnök nyújtja be a javaslatot a közjogi tisztségviselő személyére. A javaslatról az Országgyűlés – az (1a) bekezdésben és a 6. § (1) bekezdésében foglalt kivétellel – nyílt szavazással határoz.
 >
 > (1a)⁽¹⁶⁰⁾ Az Országgyűlés a köztársasági elnököt, az Alkotmánybíróság tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét és elnökhelyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
 >
@@ -788,7 +788,7 @@ A (2)–(3) bekezdés a bizottsági meghallgatás intézményét szabályozza: h
 
 **A rendelkezés szövege:**
 
-> A házelnök
+> (1) A házelnök
 >
 > 1. a köztársasági elnök,
 >
@@ -876,7 +876,7 @@ A (2) bekezdés a rendszer logikai zárását biztosítja: mivel a házelnök ma
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés ülésén az ülés zavartalan lefolytatásának biztosítása és az Országgyűlés tekintélyének megőrzése az ülést vezető elnök feladata, amelyben őt az ülés vezetésében közreműködő jegyző, valamint az általa a tárgyalási rend fenntartására felkért bármely, az ülésteremben tartózkodó jegyző, alelnök és háznagy is segíti.
+> (1) Az Országgyűlés ülésén az ülés zavartalan lefolytatásának biztosítása és az Országgyűlés tekintélyének megőrzése az ülést vezető elnök feladata, amelyben őt az ülés vezetésében közreműködő jegyző, valamint az általa a tárgyalási rend fenntartására felkért bármely, az ülésteremben tartózkodó jegyző, alelnök és háznagy is segíti.
 >
 > (2) Az ülést vezető elnök az ülés vezetésében közreműködő jegyzőt vagy az ülésteremben tartózkodó bármely jegyzőt, alelnököt és háznagyot felkérheti a 46/C–46/G. §-ban foglalt jogellenes magatartás megszüntetésében való közreműködésre. A felkért jegyző, alelnök és háznagy tárgyalási rend helyreállítása érdekében történő eljárása miatt vele szemben a 46/E–46/F. §-ban foglalt magatartásokhoz fűzött jogkövetkezmények nem alkalmazhatók. Ha a felkért jegyző, alelnök és háznagy az ülést vezető elnök kérésének nem tesz eleget, vele szemben a 10. § (3) bekezdésében foglaltak alkalmazhatók.
 >
@@ -900,7 +900,7 @@ A (3) bekezdés a 46–46/G. §-ban foglalt fegyelmi szabályok differenciált a
 
 **A rendelkezés szövege:**
 
-> Azt a képviselőt, aki
+> (1) Azt a képviselőt, aki
 >
 > a) felszólalása során nyilvánvalóan indokolatlanul eltér a tárgytól, vagy ugyanabban a vitában feleslegesen saját vagy más beszédét ismétli,
 >
@@ -928,7 +928,7 @@ A szakasz különös szabályt állapít meg arra az esetre, ha a képviselő az
 
 **A rendelkezés szövege:**
 
-> Azt a képviselőt, aki az Országgyűlés tekintélyét, az ülés méltóságát, valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – sértő vagy illetlen kifejezést használ, vagy egyéb ilyen cselekményt követ el, az ülést vezető elnök rendreutasíthatja, illetve figyelmeztetheti.
+> (1) Azt a képviselőt, aki az Országgyűlés tekintélyét, az ülés méltóságát, valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – sértő vagy illetlen kifejezést használ, vagy egyéb ilyen cselekményt követ el, az ülést vezető elnök rendreutasíthatja, illetve figyelmeztetheti.
 >
 > (2) Az ülést vezető elnök az (1) bekezdés szerinti intézkedés eredménytelensége esetén megvonhatja a felszólalási jogot a képviselőtől, aki ugyanazon az ülésnapon, ugyanazon napirendi pont tárgyalása során nem szólalhat fel.
 
@@ -940,7 +940,7 @@ A szakasz a sértő vagy illetlen kifejezések, illetve hasonló cselekmények s
 
 **A rendelkezés szövege:**
 
-> Azt a képviselőt, aki a házszabályi rendelkezések szemléltetésre vonatkozó rendelkezéseit megsérti, az ülést vezető elnök rendreutasíthatja, illetve figyelmeztetheti.
+> (1) Azt a képviselőt, aki a házszabályi rendelkezések szemléltetésre vonatkozó rendelkezéseit megsérti, az ülést vezető elnök rendreutasíthatja, illetve figyelmeztetheti.
 >
 > (2) Az ülést vezető elnök az (1) bekezdés szerinti intézkedés eredménytelensége esetén megvonhatja a felszólalási jogot a képviselőtől, aki ugyanazon az ülésnapon, ugyanazon napirendi pont tárgyalása során nem szólalhat fel.
 
@@ -992,7 +992,7 @@ A szakasz a legsúlyosabb fegyelmi tényállást szabályozza: ha a képviselő 
 
 **A rendelkezés szövege:**
 
-> Ha a képviselő a 46–46/G. § szerinti magatartás tanúsításával az ülést vezető elnök sorozatos rendreutasítása, illetve figyelmeztetése ellenére sem hagy fel, a képviselő az üléstermet köteles haladéktalanul elhagyni, és az adott ülésnapon az ülésteremben a továbbiakban – a szavazások időtartamát kivéve – nem tartózkodhat.
+> (1) Ha a képviselő a 46–46/G. § szerinti magatartás tanúsításával az ülést vezető elnök sorozatos rendreutasítása, illetve figyelmeztetése ellenére sem hagy fel, a képviselő az üléstermet köteles haladéktalanul elhagyni, és az adott ülésnapon az ülésteremben a továbbiakban – a szavazások időtartamát kivéve – nem tartózkodhat.
 >
 > (2) Az (1) bekezdésben foglalt jogkövetkezmény beálltát az ülést vezető elnök az Országgyűlés ülésén bejelenti. Az ülést vezető elnök a bejelentését – a bejelentés okának és a jogkövetkezmény jogalapjának megjelölésével – három munkanapon belül írásban is közli a képviselővel.
 >
@@ -1006,7 +1006,7 @@ A szakasz a sorozatos, ismételt jogsértő magatartás esetére állapít meg k
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁷⁶⁾ A házelnök a képviselő tiszteletdíját
+> (1)⁽¹⁷⁶⁾ A házelnök a képviselő tiszteletdíját
 >
 > a) a 46. § (2) bekezdése szerinti esetben – a 46. § (1) bekezdés b) pontja szerinti magatartás tanúsítása esetén – minimum a képviselő egyhavi tiszteletdíja összegének felével, de legfeljebb egyhavi tiszteletdíja összegével,
 >
@@ -1044,7 +1044,7 @@ A (2) bekezdés a kitiltás elrendelésének jogkörét szabályozza, amelyet a 
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés ülésnapjáról vagy üléséről kizárt képviselő az üléstermet köteles haladéktalanul elhagyni, és az adott ülésnapon vagy ülésen az ülésteremben a továbbiakban – a szavazások időtartamát kivéve – nem tartózkodhat.
+> (1) Az Országgyűlés ülésnapjáról vagy üléséről kizárt képviselő az üléstermet köteles haladéktalanul elhagyni, és az adott ülésnapon vagy ülésen az ülésteremben a továbbiakban – a szavazások időtartamát kivéve – nem tartózkodhat.
 >
 > (2) Ha a kizárt képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, az ülést vezető elnök a képviselő azonnali hatályú kitiltását rendelheti el.
 >
@@ -1058,7 +1058,7 @@ A szakasz a kizárás jogkövetkezményének végrehajtási szabályait rendezi.
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁷⁸⁾ A kitiltott képviselő az Országház területét köteles elhagyni, a kitiltás időtartama alatt területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
+> (1)⁽¹⁷⁸⁾ A kitiltott képviselő az Országház területét köteles elhagyni, a kitiltás időtartama alatt területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
 >
 > (2) Ha az ülést vezető elnök által azonnali hatállyal kitiltott képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, a vele szemben elrendelendő tiszteletdíj-csökkentés összegének a felső határa a kétszeresére emelkedik.
 >
@@ -1080,7 +1080,7 @@ A (3) bekezdés az azonnali hatályú kitiltásról szóló döntés írásbeli,
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁷⁹⁾
+> (1)⁽¹⁷⁹⁾
 >
 > (2)⁽¹⁸⁰⁾
 >
@@ -1124,7 +1124,7 @@ A szakasz a tiszteletdíj-csökkentés összegének kiszámítási alapját hat�
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁸⁵⁾ Az ülést vezető elnök által kizárt vagy azonnali hatállyal kitiltott képviselő a döntés írásbeli közlését követő nyolc napon belül kérheti a Mentelmi Bizottságtól – a bizottság elnökéhez benyújtott kérelemmel – annak megállapítását, hogy az intézkedés elrendelésének nem volt helye, azzal, hogy a 48. § (2) bekezdése esetén a kizárás önálló kérelemben nem, csak az azonnali hatályú kitiltással szemben benyújtott kérelemben vitatható.
+> (1)⁽¹⁸⁵⁾ Az ülést vezető elnök által kizárt vagy azonnali hatállyal kitiltott képviselő a döntés írásbeli közlését követő nyolc napon belül kérheti a Mentelmi Bizottságtól – a bizottság elnökéhez benyújtott kérelemmel – annak megállapítását, hogy az intézkedés elrendelésének nem volt helye, azzal, hogy a 48. § (2) bekezdése esetén a kizárás önálló kérelemben nem, csak az azonnali hatályú kitiltással szemben benyújtott kérelemben vitatható.
 >
 > (2)⁽¹⁸⁶⁾ A házelnök 47. § szerinti döntésével érintett képviselő a döntés írásbeli közlését követő nyolc napon belül kérheti a Mentelmi Bizottságtól – a bizottság elnökéhez benyújtott kérelemmel – a döntés hatályon kívül helyezését.
 >

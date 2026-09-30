@@ -8,7 +8,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽⁵²¹⁾
+> (1)⁽⁵²¹⁾
 >
 > (2)⁽⁵²²⁾
 >
@@ -56,7 +56,7 @@ A szakasz a törvény felhatalmazó rendelkezéseit tartalmazza, vagyis azokat a
 
 **A rendelkezés szövege:**
 
-> E törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+> (1) E törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 >
 > (2) A 149. § (1) bekezdése 2012. szeptember 1-jén lép hatályba.
 >
@@ -78,7 +78,7 @@ A szakasz a törvény hatálybalépését rendezi, és a klasszikus jogalkotási
 
 **A rendelkezés szövege:**
 
-> E törvény rendelkezései nem érintik az Országgyűlés e törvény hatálybalépésekor hivatalban lévő tisztségviselői, a bizottsági tisztségviselők, a megválasztott és kinevezett személyek, valamint a képviselők megbízatását, az Országgyűlés megalakult bizottságainak és működő képviselőcsoportjainak fennállását, rendelkezéseit azonban a hivatalban levő Országgyűlés tekintetében is alkalmazni kell.
+> (1) E törvény rendelkezései nem érintik az Országgyűlés e törvény hatálybalépésekor hivatalban lévő tisztségviselői, a bizottsági tisztségviselők, a megválasztott és kinevezett személyek, valamint a képviselők megbízatását, az Országgyűlés megalakult bizottságainak és működő képviselőcsoportjainak fennállását, rendelkezéseit azonban a hivatalban levő Országgyűlés tekintetében is alkalmazni kell.
 >
 > (2) A háznagyot az Országgyűlés első alkalommal 2012. december 31-ig választja meg. A főigazgatót a házelnök első alkalommal 2012. december 31-ig nevezi ki.
 >
@@ -168,7 +168,7 @@ A szakasz az átmeneti rendelkezések gyűjtőhelye, és rendkívül heterogén 
 
 **A rendelkezés szövege:**
 
-> A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény és az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2017. évi CLXXXVII. törvénnyel (a továbbiakban: Módtv.3.) megállapított rendelkezések alapján az Országgyűlés Hivatalánál a Módtv.3. hatálybalépése⁽⁵⁵²⁾ előtt keletkezett közszolgálati jogviszonyban álló köztisztviselőt – a (2)–(5) bekezdésben foglaltak figyelembevételével – a Módtv.3. hatálybalépését követő harminc napon belül kell e törvény szabályai szerint besorolni és illetményét megállapítani azzal, hogy az országgyűlési köztisztviselő így megállapított illetményének összege nem lehet kevesebb a Módtv.3. hatálybalépését megelőző napon fennálló, a Kttv. szerint megállapított illetménye – idegennyelv-tudási illetménypótlék nélkül számított – összegénél.
+> (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény és az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2017. évi CLXXXVII. törvénnyel (a továbbiakban: Módtv.3.) megállapított rendelkezések alapján az Országgyűlés Hivatalánál a Módtv.3. hatálybalépése⁽⁵⁵²⁾ előtt keletkezett közszolgálati jogviszonyban álló köztisztviselőt – a (2)–(5) bekezdésben foglaltak figyelembevételével – a Módtv.3. hatálybalépését követő harminc napon belül kell e törvény szabályai szerint besorolni és illetményét megállapítani azzal, hogy az országgyűlési köztisztviselő így megállapított illetményének összege nem lehet kevesebb a Módtv.3. hatálybalépését megelőző napon fennálló, a Kttv. szerint megállapított illetménye – idegennyelv-tudási illetménypótlék nélkül számított – összegénél.
 >
 > (2) A Módtv.3. hatálybalépése⁽⁵⁵³⁾ napján szakmai tanácsadói, szakmai főtanácsadói vagy a Kttv. 128. §-a szerinti címzetes címmel rendelkező országgyűlési köztisztviselő a korábbi címének megfelelő, a Módtv.3.-mal megállapított címre és illetményre jogosult.
 >
@@ -200,7 +200,7 @@ A szakaszt a köztisztviselői jogállásról szóló szabályozást átfogóan 
 
 **A rendelkezés szövege:**
 
-> A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel (a továbbiakban: Módtv.4.) megállapított rendelkezéseket első alkalommal a 2018. augusztus hónapra járó illetmények, tiszteletdíjak, egyéb juttatások és támogatások tekintetében kell alkalmazni.
+> (1) A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel (a továbbiakban: Módtv.4.) megállapított rendelkezéseket első alkalommal a 2018. augusztus hónapra járó illetmények, tiszteletdíjak, egyéb juttatások és támogatások tekintetében kell alkalmazni.
 >
 > (2) A Módtv. 4.-gyel megállapított 109. § szerinti juttatásokat első alkalommal 2018. augusztus 15-ig kell biztosítani.
 >
@@ -218,7 +218,7 @@ A szakaszt a Magyarország 2019. évi központi költségvetésének megalapozá
 
 **A rendelkezés szövege:**
 
-> A képviselő és a nemzetiségi szószóló az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+> (1) A képviselő és a nemzetiségi szószóló az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
 >
 > (2) A képviselővel, illetve a nemzetiségi szószólóval közös háztartásban élő házas- vagy élettársának, gyermekeinek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Mentelmi Bizottságnál lévő vagyonnyilatkozatát a Mentelmi Bizottság 2023. augusztus 1. napjáig őrzi.
 >
@@ -234,7 +234,7 @@ A 2022. évi XVIII. törvénnyel beiktatott szakasz a képviselők és a nemzeti
 
 **A rendelkezés szövege:**
 
-> A képviselő és a nemzetiségi szószóló az e törvénynek az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a családtagja vagyonnyilatkozatát is.
+> (1) A képviselő és a nemzetiségi szószóló az e törvénynek az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a családtagja vagyonnyilatkozatát is.
 >
 > (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 >
@@ -318,7 +318,7 @@ Az Országgyűlés vizsgálóbizottságai munkájának hatékonyabbá tételéve
 
 **A rendelkezés szövege:**
 
-> 2026. október 1. napjával az Országgyűlési Őrség
+> (1) 2026. október 1. napjával az Országgyűlési Őrség
 >
 > a) tűzbiztonsági feladatokat ellátó szervezeti eleme a Fővárosi Katasztrófavédelmi Igazgatóságba,
 >
@@ -348,7 +348,7 @@ A szakasz az Országgyűlési Őrség – a törvény eredeti koncepciója szeri
 
 **A rendelkezés szövege:**
 
-> Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvénnyel módosított 23. § (4) bekezdését az eseti bizottság létrehozására irányuló, e § hatálybalépésekor⁽⁵⁷²⁾ folyamatban lévő határozati javaslatra is alkalmazni kell.
+> (1) Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával összefüggő módosításáról szóló 2026. évi XLVI. törvénnyel módosított 23. § (4) bekezdését az eseti bizottság létrehozására irányuló, e § hatálybalépésekor⁽⁵⁷²⁾ folyamatban lévő határozati javaslatra is alkalmazni kell.
 >
 > (2) Az (1) bekezdés szerinti határozati javaslathoz az e § hatálybalépése⁽⁵⁷³⁾ előtt benyújtott módosító javaslatról az Országgyűlés az (1) bekezdés szerinti határozati javaslat zárószavazását megelőzően, vita nélkül dönt.
 
@@ -368,7 +368,7 @@ Az egyes törvényeknek a rendészeti feladatellátás racionalizálásával ös
 
 **A rendelkezés szövege:**
 
-> A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
+> (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 >
 > (2)⁽⁵⁷⁴⁾ A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 145/E. §, a 145/F. §, a 145/H. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 >
@@ -442,7 +442,7 @@ A 2024. évi XXVIII. törvénnyel beiktatott 52/A. alcím és az azt alkotó 146
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁸⁰⁾
+> (1)⁽⁵⁸⁰⁾
 >
 > (2)–(3)⁽⁵⁸¹⁾
 
@@ -458,7 +458,7 @@ A szakasz eredetileg a törvényhez kapcsolódó módosító rendelkezéseket ta
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁸²⁾
+> (1)⁽⁵⁸²⁾
 >
 > (2)⁽⁵⁸³⁾
 >
@@ -482,7 +482,7 @@ A szakasz szintén módosító rendelkezéseket tartalmazott, és – a 147. §-
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁸⁶⁾
+> (1)⁽⁵⁸⁶⁾
 >
 > (2)⁽⁵⁸⁷⁾
 
@@ -510,7 +510,7 @@ A szakasz teljes egészében hatályát vesztette: az egykor benne foglalt módo
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁸⁹⁾
+> (1)⁽⁵⁸⁹⁾
 >
 > (2)⁽⁵⁹⁰⁾
 >
@@ -622,7 +622,7 @@ A szakasz a 154–157. §-ból álló, közösen hatályon kívül helyezett tö
 
 **A rendelkezés szövege:**
 
-> ⁽⁶⁰³⁾
+> (1)⁽⁶⁰³⁾
 >
 > (2)⁽⁶⁰⁴⁾
 >
@@ -792,7 +792,7 @@ A szakasz teljes egészében hatályát vesztette a jogalkotásról szóló 2010
 
 **A rendelkezés szövege:**
 
-> ⁽⁶⁴¹⁾
+> (1)⁽⁶⁴¹⁾
 >
 > (2)⁽⁶⁴²⁾
 >

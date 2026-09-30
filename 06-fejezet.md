@@ -8,7 +8,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽⁴²⁰⁾ Az Országgyűlés Hivatala az Országgyűlés szervezeti, működtetési, ügyviteli és döntés-előkészítési feladatait ellátó központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet képez.
+> (1)⁽⁴²⁰⁾ Az Országgyűlés Hivatala az Országgyűlés szervezeti, működtetési, ügyviteli és döntés-előkészítési feladatait ellátó központi költségvetési szerv, amely az Országgyűlés költségvetési fejezetén belül önálló címet képez.
 >
 > (2) Az Országgyűlés Hivatalát a főigazgató vezeti.
 >
@@ -34,7 +34,7 @@ A szakasz teremti meg az Országgyűlés Hivatalának intézményi alapjait. A H
 
 **A rendelkezés szövege:**
 
-> ⁽⁴²³⁾ Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési Bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
+> (1)⁽⁴²³⁾ Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési Bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 >
 > (2) A munkáltatói jogkör gyakorlója az Országgyűlés Hivatalánál foglalkoztatott köztisztviselőkre nézve a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 >
@@ -52,7 +52,7 @@ A szakasz a Hivatal költségvetésének előkészítési és elfogadási rendj�
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés Hivatala könyvtárat, muzeális intézményt tart fenn, és közművelődési feladatokat is ellát.
+> (1) Az Országgyűlés Hivatala könyvtárat, muzeális intézményt tart fenn, és közművelődési feladatokat is ellát.
 >
 > (2) Az Országgyűlés Hivatala könyvtári tevékenységet ellátó szervezeti egysége prézens könyvtárként, az állam- és jogtudomány, a politikatudomány, a legújabbkori magyar és egyetemes történelem, valamint a magyar parlament dokumentumainak országos feladatkörű tudományos, nyilvános szakkönyvtára és információs központja. Országos tudományos szakkönyvtári kiemelt feladata e körben a hazai szakirodalom teljes körű és a külföldi szakirodalom válogató jellegű beszerzése és feldolgozása, továbbá a külföldi parlamentek, az ENSZ és szakosított szervezetei, valamint az európai uniós szervezetek kiadványainak gyűjtése és feldolgozása. Az országosan szolgáltatott kötelespéldányokból gyűjtőkörének megfelelően egy példány illeti meg.
 >
@@ -80,7 +80,7 @@ A 2014-ben beiktatott, majd 2022-ben újraszabályozott szakasz a Hivatal kultur
 
 **A rendelkezés szövege:**
 
-> E fejezet hatálya az Országgyűlés Hivatala főigazgatójának, az Országgyűlés Hivatala köztisztviselőinek (a továbbiakban együtt e törvény alkalmazásában: országgyűlési köztisztviselő) közszolgálati jogviszonyára, valamint e fejezet kifejezett rendelkezése esetén az Országgyűlés Hivatalánál foglalkoztatott munkavállalókra terjed ki.
+> (1) E fejezet hatálya az Országgyűlés Hivatala főigazgatójának, az Országgyűlés Hivatala köztisztviselőinek (a továbbiakban együtt e törvény alkalmazásában: országgyűlési köztisztviselő) közszolgálati jogviszonyára, valamint e fejezet kifejezett rendelkezése esetén az Országgyűlés Hivatalánál foglalkoztatott munkavállalókra terjed ki.
 >
 > (2)⁽⁴²⁸⁾ Az Országgyűlés Hivatalánál foglalkoztatott munkavállalók jogviszonyára az Mt. rendelkezéseit az e §-ban, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 258. §-ában foglalt eltérésekkel, a 124/N. §-ban foglaltakat figyelembe véve kell alkalmazni.
 >
@@ -132,7 +132,7 @@ A 2017: CLXXXVII. törvénnyel beiktatott XII/A. fejezet (124/B–124/T. §) az 
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési köztisztviselőt a betöltött munkaköréhez szükséges iskolai végzettsége és a közszolgálati jogviszonyban töltött ideje alapján a 3. mellékletben meghatározott besorolási osztály megfelelő besorolási fokozatába kell sorolni.
+> (1) Az országgyűlési köztisztviselőt a betöltött munkaköréhez szükséges iskolai végzettsége és a közszolgálati jogviszonyban töltött ideje alapján a 3. mellékletben meghatározott besorolási osztály megfelelő besorolási fokozatába kell sorolni.
 >
 > (2) A felsőfokú iskolai végzettséggel rendelkező országgyűlési köztisztviselőt – amennyiben felsőfokú iskolai végzettsége a betöltött munkaköréhez szükséges – az I. osztályba, az érettségi végzettséggel rendelkező országgyűlési köztisztviselőt, valamint azt a felsőfokú végzettséggel rendelkező országgyűlési köztisztviselőt, akinek a felsőfokú végzettsége a munkaköre betöltéséhez nem szükséges, a II. osztályba kell besorolni (a továbbiakban az I. és II. osztály együtt: besorolási osztály). A besorolási osztály besorolási fokozatokból áll.
 >
@@ -204,7 +204,7 @@ A szakasz a besorolási rendszer alapjait fekteti le. Az (1) bekezdés szerint a
 
 **A rendelkezés szövege:**
 
-> Ha az országgyűlési köztisztviselő megfeleltnél alacsonyabb fokozatú minősítést kap, a következő besorolási fokozathoz előírt várakozási ideje legfeljebb egy évvel meghosszabbítható.
+> (1) Ha az országgyűlési köztisztviselő megfeleltnél alacsonyabb fokozatú minősítést kap, a következő besorolási fokozathoz előírt várakozási ideje legfeljebb egy évvel meghosszabbítható.
 >
 > (2) Ha a 124/C. § (7) bekezdés b) pontjában meghatározott feltételeket az országgyűlési köztisztviselő nem teljesíti az előírt határidőre, magasabb besorolási fokozatba sorolásánál nem vehető figyelembe az előírt határidőtől a feltétel teljesítéséig eltelt időtartam.
 
@@ -216,7 +216,7 @@ A szakasz a teljesítményértékeléshez kapcsolódó előmeneteli szankciókat
 
 **A rendelkezés szövege:**
 
-> Ha a nem pályakezdő, felsőfokú iskolai végzettséggel rendelkező országgyűlési köztisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a Kttv. 118. § (4) bekezdését alkalmazni kell.
+> (1) Ha a nem pályakezdő, felsőfokú iskolai végzettséggel rendelkező országgyűlési köztisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a Kttv. 118. § (4) bekezdését alkalmazni kell.
 >
 > (2) Az (1) bekezdésben meghatározott határidő eredménytelen elteltét követően az országgyűlési köztisztviselő magasabb besorolási fokozatba nem sorolható a közigazgatási szakvizsga teljesítéséig. A közigazgatási szakvizsga teljesítése után az országgyűlési köztisztviselőt 124/C. § rendelkezésének megfelelően kell besorolni és alapilletményét megállapítani.
 >
@@ -236,7 +236,7 @@ A szakasz a közigazgatási szakvizsgához kapcsolódó előmeneteli feltételek
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési köztisztviselő jogviszonya alapján havonta illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetménymegállapításnak.
+> (1) Az országgyűlési köztisztviselő jogviszonya alapján havonta illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetménymegállapításnak.
 >
 > (2) Az illetmény a 3. melléklet szerint számított alapilletményből, valamint az e törvényben meghatározott feltételek teljesülése esetén idegennyelv-tudási illetménypótlékból áll.
 >
@@ -256,7 +256,7 @@ A szakasz az illetmény szerkezetét határozza meg. Az (1) bekezdés szerint az
 
 **A rendelkezés szövege:**
 
-> ⁽⁴³³⁾ A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező összeg (a továbbiakban e fejezet alkalmazásában: illetményalap).
+> (1)⁽⁴³³⁾ A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező összeg (a továbbiakban e fejezet alkalmazásában: illetményalap).
 >
 > (2) Az (1) bekezdés rendelkezései szerint a tárgyévre megállapított illetményalap nem lehet kevesebb, mint a tárgyévet megelőző évre megállapított illetményalap összege.
 
@@ -270,7 +270,7 @@ A szakasz az illetményalap fogalmát és számítási módját határozza meg, 
 
 **A rendelkezés szövege:**
 
-> Az egyes besorolási osztályok besorolási fokozataihoz növekvő szorzószámok tartoznak. A besorolási fokozathoz tartozó szorzószám és az illetményalap szorzata határozza meg a besorolási fokozathoz tartozó alapilletményt.
+> (1) Az egyes besorolási osztályok besorolási fokozataihoz növekvő szorzószámok tartoznak. A besorolási fokozathoz tartozó szorzószám és az illetményalap szorzata határozza meg a besorolási fokozathoz tartozó alapilletményt.
 >
 > (2) A besorolási osztályokat és a besorolási fokozatokat a 3. melléklet tartalmazza.
 >
@@ -292,7 +292,7 @@ A szakasz az alapilletmény konkrét összegének meghatározási mechanizmusát
 
 **A rendelkezés szövege:**
 
-> Ha az országgyűlési köztisztviselő – ide nem értve a főigazgatót, a hivatali szervek vezetőit és helyettes vezetőit – olyan munkakört tölt be, amelyben idegen nyelv használata szükséges, idegennyelv-tudási illetménypótlékra jogosult.
+> (1) Ha az országgyűlési köztisztviselő – ide nem értve a főigazgatót, a hivatali szervek vezetőit és helyettes vezetőit – olyan munkakört tölt be, amelyben idegen nyelv használata szükséges, idegennyelv-tudási illetménypótlékra jogosult.
 >
 > (2) Az idegennyelv-tudást az államilag elismert nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.
 >
@@ -336,7 +336,7 @@ A szakasz az idegennyelv-tudási illetménypótlék intézményét szabályozza 
 
 **A rendelkezés szövege:**
 
-> A vezetői illetménypótlék mértéke
+> (1) A vezetői illetménypótlék mértéke
 >
 > a) a főigazgató, a hivatali szervek vezetői és helyettes vezetői esetén, valamint
 >
@@ -364,7 +364,7 @@ A szakasz a vezetői illetménypótlékra vonatkozó speciális szabályokat tar
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési köztisztviselőt az e törvény alapján megillető illetmény kifizetése az országgyűlési köztisztviselő által választott fizetési számlára történő átutalással történik.
+> (1) Az országgyűlési köztisztviselőt az e törvény alapján megillető illetmény kifizetése az országgyűlési köztisztviselő által választott fizetési számlára történő átutalással történik.
 >
 > (2) A fizetési számlához kapcsolódóan az országgyűlési köztisztviselő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 >
@@ -378,7 +378,7 @@ A szakasz az illetmény kifizetésének technikai módját szabályozza. Az (1) 
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési köztisztviselő közszolgálati jogviszonyban eltöltött ideje alapján jubileumi jutalomként elismerésre jogosult, amelynek mértéke
+> (1) Az országgyűlési köztisztviselő közszolgálati jogviszonyban eltöltött ideje alapján jubileumi jutalomként elismerésre jogosult, amelynek mértéke
 >
 > a) húsz év közszolgálati jogviszonyban töltött idő esetén kéthavi,
 >
@@ -470,7 +470,7 @@ A szakasz felhatalmazza a Hivatal Szervezeti és Működési Szabályzatát, hog
 
 **A rendelkezés szövege:**
 
-> A rendkívüli munkaidőért járó szabadidőt az Országgyűlés Hivatalában száznyolcvan napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani.
+> (1) A rendkívüli munkaidőért járó szabadidőt az Országgyűlés Hivatalában száznyolcvan napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani.
 >
 > (2) Az országgyűlési köztisztviselő és az Országgyűlés Hivatalánál foglalkoztatott munkavállaló a 97. § (4) bekezdése szerinti egyes egészségügyi járóbeteg szakellátások igénybevételére jogosult.
 
@@ -486,7 +486,7 @@ A 2022-ben újraszabályozott szakasz a rendkívüli munkavégzés ellentételez
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési köztisztviselőt évi huszonöt munkanap alapszabadság illeti meg.
+> (1) Az országgyűlési köztisztviselőt évi huszonöt munkanap alapszabadság illeti meg.
 >
 > (2) Az országgyűlési köztisztviselőnek az alapszabadságon felül besorolásától függően pótszabadság jár.
 >
@@ -540,7 +540,7 @@ A szakasz a szabadság rendszerét szabályozza. Az (1) bekezdés szerint az ala
 
 **A rendelkezés szövege:**
 
-> A munkáltatói jogkör gyakorlója országgyűlési szakmai tanácsadói, illetve országgyűlési szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező országgyűlési köztisztviselőnek. Az adományozható országgyűlési szakmai tanácsadói, illetve országgyűlési szakmai főtanácsadói címek száma együttesen nem haladhatja meg az Országgyűlés Hivatala országgyűlési köztisztviselői létszámának 20%-át.
+> (1) A munkáltatói jogkör gyakorlója országgyűlési szakmai tanácsadói, illetve országgyűlési szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező országgyűlési köztisztviselőnek. Az adományozható országgyűlési szakmai tanácsadói, illetve országgyűlési szakmai főtanácsadói címek száma együttesen nem haladhatja meg az Országgyűlés Hivatala országgyűlési köztisztviselői létszámának 20%-át.
 >
 > (2) Országgyűlési szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, legalább kétéves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező országgyűlési köztisztviselőnek; országgyűlési szakmai főtanácsadói cím annak az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező országgyűlési köztisztviselőnek adományozható, aki legmagasabb fokozatú minősítéssel rendelkezik.
 >
@@ -560,7 +560,7 @@ A szakasz az „országgyűlési szakmai tanácsadó” és „országgyűlési 
 
 **A rendelkezés szövege:**
 
-> A munkáltatói jogkör gyakorlója az Országgyűlés Hivatalában tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási vagy jogi szakvizsgával rendelkező országgyűlési köztisztviselőnek címzetes országgyűlési vezető-tanácsosi, címzetes országgyűlési főtanácsosi, címzetes országgyűlési vezető-főtanácsosi, címzetes országgyűlési kiemelt vezető-főtanácsosi, az érettségi végzettségű országgyűlési köztisztviselőnek címzetes országgyűlési főmunkatársi, címzetes országgyűlési vezető-főmunkatársi, címzetes országgyűlési kiemelt vezető-főmunkatársi (e § alkalmazásában a továbbiakban együtt: címzetes országgyűlési köztisztviselő) címet adományozhat.
+> (1) A munkáltatói jogkör gyakorlója az Országgyűlés Hivatalában tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási vagy jogi szakvizsgával rendelkező országgyűlési köztisztviselőnek címzetes országgyűlési vezető-tanácsosi, címzetes országgyűlési főtanácsosi, címzetes országgyűlési vezető-főtanácsosi, címzetes országgyűlési kiemelt vezető-főtanácsosi, az érettségi végzettségű országgyűlési köztisztviselőnek címzetes országgyűlési főmunkatársi, címzetes országgyűlési vezető-főmunkatársi, címzetes országgyűlési kiemelt vezető-főmunkatársi (e § alkalmazásában a továbbiakban együtt: címzetes országgyűlési köztisztviselő) címet adományozhat.
 >
 > (2) Címzetes országgyűlési vezető-tanácsosi cím a legalább öt, címzetes országgyűlési főtanácsosi cím a legalább tizenkettő, címzetes országgyűlési vezető-főtanácsosi cím a legalább húsz, címzetes országgyűlési kiemelt vezető-főtanácsosi cím a legalább harminc, címzetes országgyűlési főmunkatársi cím a legalább tizenkettő, címzetes országgyűlési vezető-főmunkatársi cím a legalább húsz, címzetes országgyűlési kiemelt vezető-főmunkatársi cím a legalább harminc év közszolgálati jogviszonyban töltött idővel rendelkező országgyűlési köztisztviselőnek adományozható.
 >
@@ -586,7 +586,7 @@ A szakasz a „címzetes” (honoris causa jellegű) rangok adományozásának r
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁴²⁾ A hivatali szervek vezetőinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői a közigazgatási államtitkárt megillető juttatásokra jogosultak.
+> (1)⁽⁴⁴²⁾ A hivatali szervek vezetőinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői a közigazgatási államtitkárt megillető juttatásokra jogosultak.
 >
 > (2)⁽⁴⁴³⁾ A hivatali szervek helyettes vezetőinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi alapilletménye az illetményalap 4,3-szerese. Egyebekben a hivatali szervek helyettes vezetői a helyettes államtitkárt megillető juttatásokra jogosultak.
 >

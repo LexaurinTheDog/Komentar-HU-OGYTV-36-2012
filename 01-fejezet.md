@@ -28,7 +28,7 @@ A rendelkezés az Országgyűlés tisztségviselőinek zárt, taxatív felsorol�
 
 **A rendelkezés szövege:**
 
-> A házelnök biztosítja az Országgyűlés jogainak gyakorlását, gondoskodik az Országgyűlés tekintélyének megóvásáról, az Országgyűlés rendjének és biztonságának fenntartásáról, valamint az Országgyűlés munkájának megszervezéséről.
+> (1) A házelnök biztosítja az Országgyűlés jogainak gyakorlását, gondoskodik az Országgyűlés tekintélyének megóvásáról, az Országgyűlés rendjének és biztonságának fenntartásáról, valamint az Országgyűlés munkájának megszervezéséről.
 >
 > (2) A házelnök
 >
@@ -102,7 +102,7 @@ A lábjegyzetek tanúsága szerint a (2) bekezdés több pontját (a), e), f), h
 
 **A rendelkezés szövege:**
 
-> A házelnököt – az általa meghatározott rendben – alelnökök helyettesítik.
+> (1) A házelnököt – az általa meghatározott rendben – alelnökök helyettesítik.
 >
 > (2) Ha a házelnök megbízatása megszűnik, valamint – az Alaptörvény 14. cikk (3) bekezdésében meghatározott eset kivételével – a házelnök tartós akadályoztatása esetén az új házelnök megválasztásáig vagy az akadályoztatás megszűnéséig a házelnök feladat- és hatáskörét az általa meghatározott sorrendben az alelnökök látják el.
 >
@@ -124,7 +124,7 @@ A rendelkezés a házelnök helyettesítésének rendjét szabályozza. Az (1) b
 
 **A rendelkezés szövege:**
 
-> A háznagy – a 2. § (2) bekezdés d)–h), j)–m) és o)–q) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
+> (1) A háznagy – a 2. § (2) bekezdés d)–h), j)–m) és o)–q) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
 >
 > (2) A háznagy a házelnök irányítása alatt végzi munkáját.
 >
@@ -158,7 +158,7 @@ A háznagy jogállását szabályozó rendelkezés elsősorban a hivatali-igazga
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés jegyzői
+> (1) Az Országgyűlés jegyzői
 >
 > a) közreműködnek az Országgyűlés ülésének vezetésében,
 >
@@ -204,7 +204,7 @@ A jegyzői tisztség feladatköre elsősorban az ülésvezetés technikai támog
 
 **A rendelkezés szövege:**
 
-> ⁽²¹⁾ Az Országgyűlés az alakuló ülésén – az Országgyűlésben képviselettel rendelkező pártok országgyűlési képviselőcsoportjai (a továbbiakban: képviselőcsoport) vezetőinek indítványára, a legidősebb képviselő (a továbbiakban: korelnök) javaslata alapján – a házelnököt titkos szavazással, az alelnököket és a jegyzőket nyílt szavazással megválasztja. A törvényalkotásért felelős alelnök megválasztásának tényével és időpontjában a törvényalkotási bizottság elnökjelöltjévé válik.
+> (1)⁽²¹⁾ Az Országgyűlés az alakuló ülésén – az Országgyűlésben képviselettel rendelkező pártok országgyűlési képviselőcsoportjai (a továbbiakban: képviselőcsoport) vezetőinek indítványára, a legidősebb képviselő (a továbbiakban: korelnök) javaslata alapján – a házelnököt titkos szavazással, az alelnököket és a jegyzőket nyílt szavazással megválasztja. A törvényalkotásért felelős alelnök megválasztásának tényével és időpontjában a törvényalkotási bizottság elnökjelöltjévé válik.
 >
 > (2)⁽²²⁾ Ha a képviselőcsoportok közös indítványt nem terjesztenek elő, vagy a közös indítvány alapján tartott szavazás során nincs meg a szükséges többség, a legnagyobb létszámú képviselőcsoport vezetője jogosult a házelnök személyére vonatkozóan indítványt tenni. Ebben az esetben a házelnök megválasztását követően a képviselőcsoportok vezetőinek közös indítványára vagy ilyen indítvány hiányában – az egyes indítványok mérlegelését követően – a házelnök javaslatára az Országgyűlés megválasztja az alelnököket és a jegyzőket.
 >
@@ -272,7 +272,7 @@ A rendelkezés a házelnöki tisztség betöltésének formai záróaktusát, az
 
 **A rendelkezés szövege:**
 
-> A házelnök, alelnök és jegyző megbízatása megszűnik
+> (1) A házelnök, alelnök és jegyző megbízatása megszűnik
 >
 > a) képviselői megbízatásának megszűnésével,
 >
@@ -340,7 +340,7 @@ A rendelkezés a házelnöki, alelnöki és jegyzői, valamint – külön bekez
 
 **A rendelkezés szövege:**
 
-> ⁽³⁶⁾ A Házbizottság a házszabályi rendelkezések keretei között
+> (1)⁽³⁶⁾ A Házbizottság a házszabályi rendelkezések keretei között
 >
 > a) állást foglal az Országgyűlés ülésszakonkénti és ülésszakon belüli munkarendjéről,
 >
@@ -404,7 +404,7 @@ A rendelkezés a Házbizottság hatáskörét sorolja fel részletesen, amely li
 
 **A rendelkezés szövege:**
 
-> ⁽⁴³⁾ A Házbizottság az Országgyűlés döntés-előkészítő testülete. A Házbizottság elnöke a házelnök, tagjai az alelnökök, a képviselőcsoportok vezetői és a háznagy.
+> (1)⁽⁴³⁾ A Házbizottság az Országgyűlés döntés-előkészítő testülete. A Házbizottság elnöke a házelnök, tagjai az alelnökök, a képviselőcsoportok vezetői és a háznagy.
 >
 > (2) A Házbizottság a képviselőcsoport-vezetők nevének bejelentésével, valamint a házelnök és az alelnökök megválasztásával alakul meg.
 
@@ -418,7 +418,7 @@ A rendelkezés a Házbizottság alapvető jellegét és összetételét határoz
 
 **A rendelkezés szövege:**
 
-> A Házbizottságban csak a képviselőcsoport vezetője – akadályoztatása esetén megbízottja – rendelkezik szavazati joggal.
+> (1) A Házbizottságban csak a képviselőcsoport vezetője – akadályoztatása esetén megbízottja – rendelkezik szavazati joggal.
 >
 > (2)⁽⁴⁴⁾ A Házbizottság ülésén – a (2a) és a (3) bekezdésben meghatározott kivétellel – a Házbizottság tagjain kívül csak a házelnök által meghívott személyek vehetnek részt.
 >
@@ -474,7 +474,7 @@ A rendelkezés a Házbizottság üléséről készült jegyzőkönyv nyilvánoss
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés országgyűlési bizottságként
+> (1) Az Országgyűlés országgyűlési bizottságként
 >
 > a) állandó bizottságokat, törvényalkotási bizottságot és a nemzetiségeket képviselő bizottságot hoz,
 >
@@ -496,7 +496,7 @@ A rendelkezés az országgyűlési bizottságok típusait határozza meg, elkül
 
 **A rendelkezés szövege:**
 
-> Az állandó bizottság az Országgyűlés kezdeményező, javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő, valamint a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, továbbá az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
+> (1) Az állandó bizottság az Országgyűlés kezdeményező, javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő, valamint a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, továbbá az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
 >
 > (2)⁽⁵³⁾ Az Országgyűlés az Alaptörvény elfogadására, illetve módosítására irányuló javaslat, valamint törvényjavaslat, határozati javaslat, politikai nyilatkozatra vonatkozó javaslat és jelentés készítésére kérheti fel az állandó bizottságot.
 >
@@ -518,7 +518,7 @@ Az állandó bizottság alapfunkcióit meghatározó rendelkezés az (1) bekezd�
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁶⁾ Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait. Az állandó bizottságok feladatköre a kormányzati feladatokhoz igazodik.
+> (1)⁽⁵⁶⁾ Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait. Az állandó bizottságok feladatköre a kormányzati feladatokhoz igazodik.
 >
 > (2)⁽⁵⁷⁾ Kötelező létrehozni a Mentelmi, Összeférhetetlenségi, Fegyelmi és Mandátumvizsgáló Bizottságot (a továbbiakban: Mentelmi Bizottság), valamint alkotmányügyi kérdésekkel, költségvetéssel, külügyekkel, európai uniós ügyekkel, honvédelemmel, nemzetbiztonsággal, nemzetpolitikával foglalkozó állandó bizottságot.
 >
@@ -536,7 +536,7 @@ A rendelkezés az állandó bizottságok létrehozásának rendjét szabályozza
 
 **A rendelkezés szövege:**
 
-> ⁽⁵⁸⁾ Az állandó bizottság munkájában bizottsági tagként lehetőség szerint minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel.
+> (1)⁽⁵⁸⁾ Az állandó bizottság munkájában bizottsági tagként lehetőség szerint minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel.
 >
 > (2)⁽⁵⁹⁾ A Kormány tagja, a miniszterelnök politikai igazgatója és az államtitkár kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy, a 14. § (1) bekezdés a) pontja szerinti bizottság munkájában részt vegyen.
 >
@@ -560,7 +560,7 @@ A rendelkezés az állandó bizottságok összetételének arányossági és hoz
 
 **A rendelkezés szövege:**
 
-> ⁽⁶²⁾ Az állandó bizottságok számára, elnevezésére, feladatkörére, képviselőcsoporthoz tartozó és képviselőcsoporthoz nem tartozó képviselő (a továbbiakban: független képviselő) tagjainak számára a képviselőcsoport-vezetők – független képviselők véleményét is mérlegelő – megállapodása szerint, ennek hiányában a képviselőcsoport-vezetők indítványaira figyelemmel a házelnök tesz javaslatot az Országgyűlésnek.
+> (1)⁽⁶²⁾ Az állandó bizottságok számára, elnevezésére, feladatkörére, képviselőcsoporthoz tartozó és képviselőcsoporthoz nem tartozó képviselő (a továbbiakban: független képviselő) tagjainak számára a képviselőcsoport-vezetők – független képviselők véleményét is mérlegelő – megállapodása szerint, ennek hiányában a képviselőcsoport-vezetők indítványaira figyelemmel a házelnök tesz javaslatot az Országgyűlésnek.
 >
 > (2)⁽⁶³⁾ Az állandó bizottságok elnökének, alelnökének és tagjainak megválasztására, a személyükre vonatkozó változásra, illetve a megüresedett hely betöltésére – a képviselőcsoport-vezetőknek az érintett független képviselők véleményét is mérlegelő indítványaira figyelemmel – a házelnök tesz javaslatot az Országgyűlésnek.
 >
@@ -588,7 +588,7 @@ A rendelkezés az állandó bizottságok létszámának, elnevezésének, felada
 
 **A rendelkezés szövege:**
 
-> Az állandó bizottság elnökének, alelnökének vagy tagjának megbízatása megszűnik
+> (1) Az állandó bizottság elnökének, alelnökének vagy tagjának megbízatása megszűnik
 >
 > a) a megbízatásról való lemondással,
 >
@@ -626,7 +626,7 @@ A rendelkezés az állandó bizottsági elnöki, alelnöki és tagsági megbíza
 
 **A rendelkezés szövege:**
 
-> A bizottsági tag a bizottság ülésein személyesen vagy helyettese útján vesz részt.
+> (1) A bizottsági tag a bizottság ülésein személyesen vagy helyettese útján vesz részt.
 >
 > (2)⁽⁷⁰⁾ A bizottsági tag távolléte esetére csak ugyanazon országgyűlési bizottság tagjának adhat képviseleti megbízást. A képviseleti megbízás egyetlen bizottsági ülésre szól.
 >
@@ -644,7 +644,7 @@ A rendelkezés a bizottsági tag helyettesítés útján történő részvétel�
 
 **A rendelkezés szövege:**
 
-> ⁽⁷¹⁾ Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság a működési rendjét – az állandó bizottságok működésére vonatkozó házszabályi rendelkezések keretei között – maga állapítja meg.
+> (1)⁽⁷¹⁾ Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság a működési rendjét – az állandó bizottságok működésére vonatkozó házszabályi rendelkezések keretei között – maga állapítja meg.
 >
 > (2)⁽⁷²⁾ Minden állandó bizottságnak létre kell hoznia egy albizottságot, amely a bizottság feladatkörébe tartozó törvények végrehajtását, társadalmi és gazdasági hatását, valamint a deregulációs folyamatokat figyelemmel kíséri.
 >
@@ -664,7 +664,7 @@ A rendelkezés az állandó bizottságok albizottság-alakítási jogát szabál
 
 **A rendelkezés szövege:**
 
-> A törvényalkotási bizottság az Országgyűlés jogalkotási tevékenysége során eljáró, annak javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő bizottsága, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
+> (1) A törvényalkotási bizottság az Országgyűlés jogalkotási tevékenysége során eljáró, annak javaslattevő, véleményező, törvényben és a határozati házszabályi rendelkezésekben meghatározott esetekben ügydöntő bizottsága, amely az Alaptörvényben, törvényben, a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
 >
 > (2) Az Országgyűlés a megalakulását követően köteles létrehozni a törvényalkotási bizottságot. Az Országgyűlés a törvényalkotási bizottság alelnökének és tagjainak személyéről az állandó bizottságok létrehozásával egyidejűleg határoz. A törvényalkotási bizottság elnökének személyéről az Országgyűlés külön határoz.
 >
@@ -682,7 +682,7 @@ A törvényalkotási bizottságról szóló, a 2014. évi XIV. törvénnyel beik
 
 **A rendelkezés szövege:**
 
-> ⁽⁷⁴⁾ A nemzetiségeket képviselő bizottság a nemzetiségek érdekeit, jogait érintően az Országgyűlés kezdeményező, javaslattevő, véleményező és a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben és a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
+> (1)⁽⁷⁴⁾ A nemzetiségeket képviselő bizottság a nemzetiségek érdekeit, jogait érintően az Országgyűlés kezdeményező, javaslattevő, véleményező és a kormányzati munka ellenőrzésében közreműködő szerve, amely az Alaptörvényben, törvényben és a határozati házszabályi rendelkezésekben, valamint az Országgyűlés egyéb határozataiban meghatározott hatáskörét gyakorolja.
 >
 > (2) A nemzetiségeket képviselő bizottság állást foglal a Kormánynak a nemzetiségek helyzetéről készített beszámolójáról, valamint az alapvető jogok biztosának éves beszámolójáról.
 >
@@ -714,7 +714,7 @@ A nemzetiségeket képviselő bizottságról szóló rendelkezés e testület eg
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés az eseti bizottságot létrehozó határozatban megjelölt ügyeknek a határozatban megállapított ideig történő intézésére eseti bizottságot alakíthat.
+> (1) Az Országgyűlés az eseti bizottságot létrehozó határozatban megjelölt ügyeknek a határozatban megállapított ideig történő intézésére eseti bizottságot alakíthat.
 >
 > (2) Az eseti bizottság feladatát, elnevezését, tagjainak számát és megbízatásának terjedelmét az Országgyűlés az eseti bizottság felállításakor határozza meg.
 >
@@ -744,7 +744,7 @@ Az eseti bizottságról szóló rendelkezés e bizottságtípus időleges, célh
 
 **A rendelkezés szövege:**
 
-> ⁽⁸³⁾ Az Országgyűlés – az Alaptörvény C) cikk (1) bekezdésével összhangban – bármely, az Országgyűlés ellenőrzési feladatkörében felmerülő, közérdekű, interpellációval, kérdéssel vagy (azonnali kérdéssel) nem tisztázható ügy megvizsgálására vizsgálóbizottságot küldhet ki. Nem hozható létre vizsgálóbizottság egyedi jogi felelősség megállapítására. A vizsgálat nem terjedhet ki folyamatban lévő bírósági vagy hatósági eljárás érdemi eldöntésére, valamint nem veszélyeztetheti annak tisztességes lefolytatását. A folyamatban lévő büntető-, szabálysértési, polgári peres vagy közigazgatási hatósági eljárás önmagában nem zárja ki a vizsgálóbizottság működését, ha a vizsgálat tárgya közpolitikai, közpénzügyi, intézményi, szervezeti, tulajdonosi, irányítási, vezetési, ellenőrzési, felügyeleti vagy személyi összefüggések feltárására irányul, és nem érinti az ügy érdemi bírósági vagy hatósági eldöntését.
+> (1)⁽⁸³⁾ Az Országgyűlés – az Alaptörvény C) cikk (1) bekezdésével összhangban – bármely, az Országgyűlés ellenőrzési feladatkörében felmerülő, közérdekű, interpellációval, kérdéssel vagy (azonnali kérdéssel) nem tisztázható ügy megvizsgálására vizsgálóbizottságot küldhet ki. Nem hozható létre vizsgálóbizottság egyedi jogi felelősség megállapítására. A vizsgálat nem terjedhet ki folyamatban lévő bírósági vagy hatósági eljárás érdemi eldöntésére, valamint nem veszélyeztetheti annak tisztességes lefolytatását. A folyamatban lévő büntető-, szabálysértési, polgári peres vagy közigazgatási hatósági eljárás önmagában nem zárja ki a vizsgálóbizottság működését, ha a vizsgálat tárgya közpolitikai, közpénzügyi, intézményi, szervezeti, tulajdonosi, irányítási, vezetési, ellenőrzési, felügyeleti vagy személyi összefüggések feltárására irányul, és nem érinti az ügy érdemi bírósági vagy hatósági eldöntését.
 >
 > (2)⁽⁸⁴⁾ Vizsgálóbizottság létrehozását a képviselők egyötöde kezdeményezheti.
 >
@@ -768,7 +768,7 @@ A vizsgálóbizottságról szóló rendelkezést a 2026. évi XXIII. törvény l
 
 **A rendelkezés szövege:**
 
-> A vizsgálóbizottság vizsgálati tevékenységében minden személy, szerv és szervezet köteles együttműködni, akit vagy amelyet a vizsgálóbizottság elnöke határozatában erre kötelez (a továbbiakban: együttműködésre kötelezett).
+> (1) A vizsgálóbizottság vizsgálati tevékenységében minden személy, szerv és szervezet köteles együttműködni, akit vagy amelyet a vizsgálóbizottság elnöke határozatában erre kötelez (a továbbiakban: együttműködésre kötelezett).
 >
 > (2) Az együttműködésre kötelezettet a vizsgálóbizottság elnökének (1) bekezdés szerinti határozatának megfelelően együttműködési kötelezettség terheli, amely lehet
 >
@@ -800,7 +800,7 @@ A 2026. évi XXIII. törvénnyel megállapított rendelkezés a vizsgálóbizott
 
 **A rendelkezés szövege:**
 
-> Az együttműködésre kötelezett az adatszolgáltatási kötelezettség teljesítése során köteles a rendelkezésére álló, a vizsgálóbizottság által meghatározott, a vizsgálat tárgyával közvetlenül összefüggő adatokat, információkat és iratokat a vizsgálóbizottság által megjelölt észszerű – legalább 5 napos – határidőn belül átadni.
+> (1) Az együttműködésre kötelezett az adatszolgáltatási kötelezettség teljesítése során köteles a rendelkezésére álló, a vizsgálóbizottság által meghatározott, a vizsgálat tárgyával közvetlenül összefüggő adatokat, információkat és iratokat a vizsgálóbizottság által megjelölt észszerű – legalább 5 napos – határidőn belül átadni.
 >
 > (2) Az együttműködésre kötelezettet adatszolgáltatásra kötelező határozatot a vizsgálóbizottság elnöke hozza meg. A határozatban az együttműködésre kötelezettet jogaira és kötelezettségeire figyelmeztetni kell, így különösen figyelmeztetni kell arra, hogy
 >
@@ -830,7 +830,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés az adatszolgáltatási 
 
 **A rendelkezés szövege:**
 
-> A vizsgálóbizottság elnöke szükség esetén az együttműködésre kötelezettet megidézi a vizsgálóbizottság által megjelölt helyre. Az együttműködésre kötelezett kérelmére, a vizsgálóbizottság elnöke, méltányolható okból a megjelölt helyszíntől eltérhet.
+> (1) A vizsgálóbizottság elnöke szükség esetén az együttműködésre kötelezettet megidézi a vizsgálóbizottság által megjelölt helyre. Az együttműködésre kötelezett kérelmére, a vizsgálóbizottság elnöke, méltányolható okból a megjelölt helyszíntől eltérhet.
 >
 > (2) Az idézést – ha az ügy körülményeiből más nem következik – úgy kell közölni, hogy arról az együttműködésre kötelezett a meghallgatást megelőzően legalább 5 nappal értesüljön.
 >
@@ -888,7 +888,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a megjelenési kötelez
 
 **A rendelkezés szövege:**
 
-> A nyilatkozattételi kötelezettség teljesítése során az együttműködésre kötelezett köteles a vizsgálat tárgyával összefüggő, általa ismert lényeges tényekről legjobb tudomása szerint nyilatkozni. Az együttműködésre kötelezett nyilatkozattétele a vizsgálóbizottság előtt szóban (meghallgatás), vagy a vizsgálóbizottság elnökének döntése szerint – határidő tűzése mellett – írásban is teljesíthető.
+> (1) A nyilatkozattételi kötelezettség teljesítése során az együttműködésre kötelezett köteles a vizsgálat tárgyával összefüggő, általa ismert lényeges tényekről legjobb tudomása szerint nyilatkozni. Az együttműködésre kötelezett nyilatkozattétele a vizsgálóbizottság előtt szóban (meghallgatás), vagy a vizsgálóbizottság elnökének döntése szerint – határidő tűzése mellett – írásban is teljesíthető.
 >
 > (2) A vizsgálóbizottság a meghallgatás megkezdése előtt, illetve a nyilatkozattételre való felhívásban tájékoztatja az együttműködésre kötelezettet jogairól, kötelezettségeiről, a nyilatkozattétel megtagadásának lehetséges törvényes okairól, az önvádra kötelezés tilalmáról, továbbá arról, hogy az országgyűlési vizsgálóbizottság munkájának akadályozása bűncselekmény.
 >
@@ -908,7 +908,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a nyilatkozattételi k�
 
 **A rendelkezés szövege:**
 
-> Amennyiben az együttműködésre kötelezett adatszolgáltatási, megjelenési vagy nyilatkozattételi kötelezettségének önhibáján kívül nem tett eleget, igazolásnak van helye.
+> (1) Amennyiben az együttműködésre kötelezett adatszolgáltatási, megjelenési vagy nyilatkozattételi kötelezettségének önhibáján kívül nem tett eleget, igazolásnak van helye.
 >
 > (2) Az igazolási kérelmet a vizsgálóbizottsági ülés napjától vagy az együttműködési kötelezettség teljesítésének határozatban megszabott határidő utolsó napjától számított 8 napon belül lehet előterjeszteni. Ha a mulasztás később jutott az együttműködésre kötelezett tudomására, vagy az akadály később szűnt meg, az igazolási kérelem határideje a tudomásszerzéssel, illetve az akadály megszűnésével kezdődik. Három hónapon túl igazolási kérelmet nem lehet előterjeszteni.
 >
@@ -936,7 +936,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés az igazolási kérelem 
 
 **A rendelkezés szövege:**
 
-> A vizsgálóbizottság előtt nem hallgatható meg
+> (1) A vizsgálóbizottság előtt nem hallgatható meg
 >
 > a) a Be. szerinti védő olyan tényről, adatról vagy körülményről, amelyről védői tevékenysége ellátása során szerzett tudomást, kivéve, ha a titoktartási kötelezettség alól a jogszabály szerint felmentést kapott,
 >
@@ -962,7 +962,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a vizsgálóbizottság 
 
 **A rendelkezés szövege:**
 
-> Aki foglalkozásánál vagy közmegbízatásánál fogva – a minősített adatra vonatkozó titoktartási kötelezettség esetét ide nem értve – titoktartásra köteles, a nyilatkozattételt vagy adatszolgáltatást megtagadhatja, ha annak teljesítésével titoktartási kötelezettségét megsértené, kivéve, ha jogszabályban meghatározottak szerint ez alól az arra jogosult felmentette.
+> (1) Aki foglalkozásánál vagy közmegbízatásánál fogva – a minősített adatra vonatkozó titoktartási kötelezettség esetét ide nem értve – titoktartásra köteles, a nyilatkozattételt vagy adatszolgáltatást megtagadhatja, ha annak teljesítésével titoktartási kötelezettségét megsértené, kivéve, ha jogszabályban meghatározottak szerint ez alól az arra jogosult felmentette.
 >
 > (2) A titoktartási kötelezettség a jogszabályban meghatározott ideig áll fenn, ha az együttműködésre kötelezett az alól nem kapott felmentést.
 >
@@ -978,7 +978,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a foglalkozásból vagy
 
 **A rendelkezés szövege:**
 
-> Aki magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben a nyilatkozattételt megtagadhatja.
+> (1) Aki magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben a nyilatkozattételt megtagadhatja.
 >
 > (2) A nyilatkozattétel (1) bekezdés szerinti megtagadása miatt az együttműködésre kötelezettel szemben bírság, elővezetés vagy más hátrányos jogkövetkezmény nem alkalmazható.
 >
@@ -994,7 +994,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés az önvádra kötelezé
 
 **A rendelkezés szövege:**
 
-> A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy megtagadhatja a nyilatkozattételt vagy adatszolgáltatást, ha azzal a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét vagy az információforrás azonosítására alkalmas adatot fedne fel.
+> (1) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy megtagadhatja a nyilatkozattételt vagy adatszolgáltatást, ha azzal a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét vagy az információforrás azonosítására alkalmas adatot fedne fel.
 >
 > (2) A nyilatkozattétel vagy adatszolgáltatás (1) bekezdésben meghatározott akadálya az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
@@ -1008,7 +1008,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a sajtószabadság és 
 
 **A rendelkezés szövege:**
 
-> Az együttműködésre kötelezettet az együttműködési kötelezettsége teljesítése során, így különösen a vizsgálóbizottság előtti eljárás során meghatalmazott jogi képviselő segítheti.
+> (1) Az együttműködésre kötelezettet az együttműködési kötelezettsége teljesítése során, így különösen a vizsgálóbizottság előtti eljárás során meghatalmazott jogi képviselő segítheti.
 >
 > (2) A jogi képviselő a meghallgatás során jelen lehet, az együttműködésre kötelezett jogaira és kötelezettségeire vonatkozóan észrevételt tehet, valamint indítványozhatja a nyilatkozattétel megtagadására okot adó körülmények jegyzőkönyvben történő rögzítését.
 >
@@ -1026,7 +1026,7 @@ A 2026. évi XXIII. törvénnyel beiktatott rendelkezés a kötelezett jogi kép
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁰⁵⁾ A vizsgálóbizottság a vizsgálat lezárását követően jelentést készít, amely tartalmazza a feltárt tényeket, a levont következtetéseket és a szükségesnek tartott intézkedésekre vonatkozó javaslatokat. A vizsgálóbizottság bármely tagja jogosult különvélemény vagy kisebbségi vélemény csatolására, amely a jelentés elválaszthatatlan részét képezi.
+> (1)⁽¹⁰⁵⁾ A vizsgálóbizottság a vizsgálat lezárását követően jelentést készít, amely tartalmazza a feltárt tényeket, a levont következtetéseket és a szükségesnek tartott intézkedésekre vonatkozó javaslatokat. A vizsgálóbizottság bármely tagja jogosult különvélemény vagy kisebbségi vélemény csatolására, amely a jelentés elválaszthatatlan részét képezi.
 >
 > (2) A jelentés tartalmazza
 >

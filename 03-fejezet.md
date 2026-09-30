@@ -4,7 +4,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁹³⁾ A házelnök az ülést vezető elnök által elrendelt kizárás vagy azonnali hatályú kitiltás hatályát kivételesen, hivatalból, méltányossági jogkörben eljárva, a kizárás vagy azonnali hatályú kitiltás elrendelését követő öt napon belül megszüntetheti. E döntéséről a házelnök haladéktalanul tájékoztatja a képviselőt, az ülést vezető elnököt, valamint a Mentelmi Bizottság elnökét.
+> (1)⁽¹⁹³⁾ A házelnök az ülést vezető elnök által elrendelt kizárás vagy azonnali hatályú kitiltás hatályát kivételesen, hivatalból, méltányossági jogkörben eljárva, a kizárás vagy azonnali hatályú kitiltás elrendelését követő öt napon belül megszüntetheti. E döntéséről a házelnök haladéktalanul tájékoztatja a képviselőt, az ülést vezető elnököt, valamint a Mentelmi Bizottság elnökét.
 >
 > (2) A házelnök (1) bekezdés szerinti döntésével az elrendelt intézkedés hatálya – ideértve a 48. § (2) bekezdése alapján elrendelt további intézkedést is – megszűnik, illetve a 49. § (2) bekezdésében foglaltak az adott magatartás tekintetében nem alkalmazhatóak.
 >
@@ -20,7 +20,7 @@ A rendelkezés a házelnök számára méltányossági, korrekciós jogkört biz
 
 **A rendelkezés szövege:**
 
-> Ha az Országgyűlés ülésén olyan rendzavarás történik, amely a tanácskozás megkezdését vagy folytatását lehetetlenné teszi, az ülést vezető elnök az ülést határozott időre felfüggesztheti vagy berekesztheti. Az ülés berekesztése esetén a házelnök új ülést hív össze. Ha az ülést vezető elnök határozatát nem tudja kihirdetni, elhagyja az üléstermet, amellyel az ülés megszakad. Az ülés megszakadása esetén az ülés csak akkor folytatódhat, ha a házelnök újból összehívja azt.
+> (1) Ha az Országgyűlés ülésén olyan rendzavarás történik, amely a tanácskozás megkezdését vagy folytatását lehetetlenné teszi, az ülést vezető elnök az ülést határozott időre felfüggesztheti vagy berekesztheti. Az ülés berekesztése esetén a házelnök új ülést hív össze. Ha az ülést vezető elnök határozatát nem tudja kihirdetni, elhagyja az üléstermet, amellyel az ülés megszakad. Az ülés megszakadása esetén az ülés csak akkor folytatódhat, ha a házelnök újból összehívja azt.
 >
 > (2) Az ülés berekesztése esetén a házelnök az új ülést a 34. § (2) bekezdése szerinti határidőkre tekintet nélkül hívhatja össze. Az így összehívott ülés napirendjén kizárólag a berekesztett ülés napirendjén szereplő azon napirendi pontok szerepelhetnek, amelyek tárgyalási vagy döntéshozatali szakasza nem zárult le.
 
@@ -32,7 +32,7 @@ A szakasz a tanácskozás ellehetetlenülését okozó rendzavarás eseteire ad 
 
 **A rendelkezés szövege:**
 
-> A képviselőre nézve rendelkezést tartalmazó, ezen alcím szerinti, írásba foglalt döntést az Országgyűlés Hivatalának belső kézbesítési rendszerén keresztül kell közölni az érintett képviselővel vagy az általa megbízott személlyel. A döntés közlésének napja az a nap, amelyen azt a képviselő vagy az általa megbízott személy kézhez vette.
+> (1) A képviselőre nézve rendelkezést tartalmazó, ezen alcím szerinti, írásba foglalt döntést az Országgyűlés Hivatalának belső kézbesítési rendszerén keresztül kell közölni az érintett képviselővel vagy az általa megbízott személlyel. A döntés közlésének napja az a nap, amelyen azt a képviselő vagy az általa megbízott személy kézhez vette.
 >
 > (2) Ha az (1) bekezdés szerinti kézbesítés sikertelen, legkésőbb a sikertelen kézbesítést követő napon a döntést elektronikus úton, az Országgyűlés Hivatala által a képviselő részére biztosított elektronikus levelezési címre történő megküldéssel kell közölni. Ebben az esetben a döntés közlésének napja az a nap, amelyen az – az elektronikus levelezőrendszer visszaigazolása szerint – kézbesítésre került.
 
@@ -46,7 +46,7 @@ A szakasz a képviselőt hátrányosan érintő, írásba foglalt fegyelmi dönt
 
 **A rendelkezés szövege:**
 
-> A bizottsági ülés zavartalan lefolytatása érdekében az országgyűlési bizottság elnöke és az országgyűlési bizottság a 46–46/G. §-ban foglalt rendelkezéseket az ezen alcímben foglalt eltérésekkel alkalmazhatja az országgyűlési bizottság ülésén jelen lévő képviselő tekintetében.
+> (1) A bizottsági ülés zavartalan lefolytatása érdekében az országgyűlési bizottság elnöke és az országgyűlési bizottság a 46–46/G. §-ban foglalt rendelkezéseket az ezen alcímben foglalt eltérésekkel alkalmazhatja az országgyűlési bizottság ülésén jelen lévő képviselő tekintetében.
 >
 > (2) Az ezen alcímben foglalt rendelkezéseket – az 52/D. § (3) bekezdése és az 52/E. § (1) bekezdése kivételével – az Európai Parlament magyarországi képviselője tekintetében is alkalmazni kell.
 >
@@ -64,7 +64,7 @@ A 18/A. alcím a bizottsági ülések fegyelmi rendjét önálló, az Országgy�
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottság elnöke rendreutasíthatja, illetve figyelmeztetheti a 46. § (1) bekezdésében, a 46/B. § (1) bekezdésében vagy a 46/C. § (1) bekezdésében meghatározott magatartást tanúsító képviselőt.
+> (1) Az országgyűlési bizottság elnöke rendreutasíthatja, illetve figyelmeztetheti a 46. § (1) bekezdésében, a 46/B. § (1) bekezdésében vagy a 46/C. § (1) bekezdésében meghatározott magatartást tanúsító képviselőt.
 >
 > (2) Az (1) bekezdés szerinti intézkedés eredménytelensége esetén az országgyűlési bizottság elnöke megvonhatja a képviselő felszólalási jogát.
 >
@@ -90,7 +90,7 @@ A rendelkezés a bizottsági fegyelmi eszköztár következő fokozatát jelenti
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy elrendeli a 46/F. §-ban vagy a 46/G. §-ban meghatározott magatartást tanúsító képviselő bizottsági ülésről történő azonnali hatályú kitiltását. A kitiltás elrendeléséről szóló döntést az országgyűlési bizottság elnöke a 49. § (3) bekezdésében és az 52. §-ban foglaltak szerint közli a képviselővel.
+> (1) Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy elrendeli a 46/F. §-ban vagy a 46/G. §-ban meghatározott magatartást tanúsító képviselő bizottsági ülésről történő azonnali hatályú kitiltását. A kitiltás elrendeléséről szóló döntést az országgyűlési bizottság elnöke a 49. § (3) bekezdésében és az 52. §-ban foglaltak szerint közli a képviselővel.
 >
 > (2) Az (1) bekezdés alapján kitiltott képviselő köteles a bizottsági üléstermet elhagyni és oda a bizottsági ülés időtartama alatt nem térhet vissza.
 >
@@ -104,7 +104,7 @@ A szakasz a bizottsági fegyelmi rendszer legszigorúbb, azonnali hatályú int�
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy a 46/B. § (2) bekezdésében vagy a 46/C–46/G. §-ban meghatározott magatartást tanúsító képviselővel szemben kezdeményezi a házelnöknél a 47. § (1) bekezdése szerinti tiszteletdíj-csökkentés elrendelését az 50. §-ban foglaltak figyelembevételével.
+> (1) Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy a 46/B. § (2) bekezdésében vagy a 46/C–46/G. §-ban meghatározott magatartást tanúsító képviselővel szemben kezdeményezi a házelnöknél a 47. § (1) bekezdése szerinti tiszteletdíj-csökkentés elrendelését az 50. §-ban foglaltak figyelembevételével.
 >
 > (2) Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy a 46/B. § (2) bekezdésében, a 46/C. § (2) bekezdésében vagy a 46/D–46/G. §-ban meghatározott magatartást tanúsító képviselővel szemben kezdeményezi a házelnöknél a 47. § (2) bekezdése szerinti kitiltás elrendelését.
 >
@@ -160,7 +160,7 @@ A rövid rendelkezés a 18/A. alcímben meghatározott valamennyi eljárási hat
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁹⁷⁾ A házelnök az e törvényben és az Alaptörvényben meghatározottak szerint gyakorolja rendészeti jogkörét. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol az e törvényben és az Alaptörvényben meghatározottak szerint.
+> (1)⁽¹⁹⁷⁾ A házelnök az e törvényben és az Alaptörvényben meghatározottak szerint gyakorolja rendészeti jogkörét. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol az e törvényben és az Alaptörvényben meghatározottak szerint.
 >
 > (2)⁽¹⁹⁸⁾ Az ülést vezető elnök az Országgyűlési Őrséggel kivezettetheti az ülésteremből azt a 46/G. § alapján kitiltott képviselőt, aki az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
 >
@@ -192,7 +192,7 @@ A szakasz a házelnök általános rendészeti jogkörét és annak a plenáris 
 
 **A rendelkezés szövege:**
 
-> ⁽²⁰³⁾ Az Országház, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
+> (1)⁽²⁰³⁾ Az Országház, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
 >
 > (2)⁽²⁰⁴⁾ A házelnök meghatározza és az Országgyűlés honlapján közzéteszi az (1) bekezdésben meghatározott épületek területére történő belépés és az ott-tartózkodás rendjét, az Országgyűlési Őrség és az Országgyűlés Hivatala e feladatkörével összefüggő tevékenysége részletes szabályait, valamint a belépés engedélyezésére vonatkozó jogosultság átruházásának szabályait. A házelnök nem állapíthat meg olyan rendelkezést, amely az Országgyűlés ülésének nyilvánosságát, a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit kizárná.
 >
@@ -232,7 +232,7 @@ A szakasz az Országház, valamint az Országgyűlés Hivatala és az Országgy�
 
 **A rendelkezés szövege:**
 
-> A nyilvános ülésen e törvényben meghatározottak szerint hallgatóság vehet részt.
+> (1) A nyilvános ülésen e törvényben meghatározottak szerint hallgatóság vehet részt.
 >
 > (2) A nyilvános ülésen a hallgatóság – ideértve a médiatartalom-szolgáltatók képviselőit is – csak a házelnök által kijelölt helyen foglalhat helyet, és a véleménynyilvánítás bármely formájától tartózkodni köteles.
 >
@@ -246,7 +246,7 @@ A IV. Fejezet (Az Országgyűlés működésének nyilvánossága) nyitó szakas
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés nyilvános üléseinek hiteles jegyzőkönyvei az Országgyűlés Hivatalánál, azok irattárban elhelyezett mellékletei és a számítógépes szavazási lista az Országgyűlés Hivatala útján a nyilvánosság számára hozzáférhetőek.
+> (1) Az Országgyűlés nyilvános üléseinek hiteles jegyzőkönyvei az Országgyűlés Hivatalánál, azok irattárban elhelyezett mellékletei és a számítógépes szavazási lista az Országgyűlés Hivatala útján a nyilvánosság számára hozzáférhetőek.
 >
 > (2) Az Országgyűlés nyilvános ülésének jegyzőkönyveit és a nyilvános ülésen tárgyalt irományokat, valamint az ezzel összefüggő szavazási listát az Országgyűlés honlapján közzé kell tenni.
 
@@ -260,7 +260,7 @@ A szakasz a nyilvános ülésekhez kapcsolódó dokumentumok hozzáférhetőség
 
 **A rendelkezés szövege:**
 
-> ⁽²⁰⁸⁾ Az Alaptörvény alapján zárt ülés kezdeményezésére jogosult javaslata alapján egy vagy több napirendi pont, illetve napirenden kívüli felszólalás tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is. Az Országgyűlés a javaslatról az ügyrendi javaslatra vonatkozó szabályok szerint dönt.
+> (1)⁽²⁰⁸⁾ Az Alaptörvény alapján zárt ülés kezdeményezésére jogosult javaslata alapján egy vagy több napirendi pont, illetve napirenden kívüli felszólalás tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is. Az Országgyűlés a javaslatról az ügyrendi javaslatra vonatkozó szabályok szerint dönt.
 >
 > (2)⁽²⁰⁹⁾ A zárt ülésen a képviselőkön kívül csak a tanácskozási joggal rendelkező személy, a háznagy, valamint a főigazgató által kijelölt – az Országgyűlés Hivatalával szerződéses jogviszonyban álló – személy vehet részt.
 >
@@ -280,7 +280,7 @@ A 21. cím a zárt ülés intézményét szabályozza, amely a nyilvánosság f�
 
 **A rendelkezés szövege:**
 
-> Az országgyűlési bizottságok ülései nyilvánosak. A nyilvános ülésen a hallgatóság az országgyűlési bizottság elnöke által megjelölt létszámban, az általa kijelölt helyen foglalhat helyet, és a véleménynyilvánítás bármely formájától tartózkodni köteles. Az ülés rendjének megzavarása esetén az országgyűlési bizottság elnöke a hallgatóságot vagy annak egy részét az ülésről kiutasíthatja. A nyilvánosság – ha azt az országgyűlési bizottság tevékenységével kapcsolatos megnövekedett érdeklődés indokolja – az 59. §-ban meghatározottak szerint is biztosítható. Ha minősített adat, személyes adat, üzleti titok vagy törvény által védett más adat védelme érdekében szükséges, az országgyűlési bizottság zárt ülést tart.
+> (1) Az országgyűlési bizottságok ülései nyilvánosak. A nyilvános ülésen a hallgatóság az országgyűlési bizottság elnöke által megjelölt létszámban, az általa kijelölt helyen foglalhat helyet, és a véleménynyilvánítás bármely formájától tartózkodni köteles. Az ülés rendjének megzavarása esetén az országgyűlési bizottság elnöke a hallgatóságot vagy annak egy részét az ülésről kiutasíthatja. A nyilvánosság – ha azt az országgyűlési bizottság tevékenységével kapcsolatos megnövekedett érdeklődés indokolja – az 59. §-ban meghatározottak szerint is biztosítható. Ha minősített adat, személyes adat, üzleti titok vagy törvény által védett más adat védelme érdekében szükséges, az országgyűlési bizottság zárt ülést tart.
 >
 > (2) Zárt ülés tartását az előterjesztő vagy bármely bizottsági tag kérelmezheti, arról az országgyűlési bizottság határoz. Egy vagy több napirendi pont tárgyalása céljából zárt üléssé nyilvánítható a nyilvános ülés egy része is. Nem rendelhető el az országgyűlési bizottság zárt ülése, ha a javaslattevő nem nevezi meg konkrétan azt az (1) bekezdés szerinti adatkört, amelybe tartozó adat vagy titok védelme indokolja a zárt ülés elrendelését.
 >
@@ -304,7 +304,7 @@ A szakasz a 22. cím alatt az országgyűlési bizottsági ülések nyilvánoss�
 
 **A rendelkezés szövege:**
 
-> ⁽²¹²⁾ Az Országgyűlés Hivatala az Országgyűlés ülését, a törvényalkotási bizottság ülését, valamint az (1a) bekezdés alapján meghatározott bizottsági ülést saját zártláncú audiovizuális rendszerén közvetíti.
+> (1)⁽²¹²⁾ Az Országgyűlés Hivatala az Országgyűlés ülését, a törvényalkotási bizottság ülését, valamint az (1a) bekezdés alapján meghatározott bizottsági ülést saját zártláncú audiovizuális rendszerén közvetíti.
 >
 > (1a)⁽²¹³⁾ A bizottság elnökének kezdeményezésére a házelnök dönt a kinevezéssel vagy jelöléssel kapcsolatos nyilvános bizottsági meghallgatás, valamint egyéb nyilvános bizottsági ülés zártláncú audiovizuális rendszerben történő közvetítéséről.
 >
@@ -340,7 +340,7 @@ A 23. cím az ülések audiovizuális közvetítésének kérdéskörét szabál
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés honlapján a benyújtást követően haladéktalanul közzé kell tenni
+> (1) Az Országgyűlés honlapján a benyújtást követően haladéktalanul közzé kell tenni
 >
 > a) a törvényjavaslatokat,
 >
@@ -368,7 +368,7 @@ A 24. cím a törvényalkotás nyilvánosságát, azaz a jogalkotási folyamat d
 
 **A rendelkezés szövege:**
 
-> A házszabályi rendelkezések értelmezésével kapcsolatban az Országgyűlés ülésén egyedi esetekben felmerült vitás kérdésekben az ülést vezető elnök – szükség esetén a Házbizottságban folytatott egyeztetést követően – dönt, vagy a házszabályi rendelkezések értelmezéséért felelős bizottsághoz fordul.
+> (1) A házszabályi rendelkezések értelmezésével kapcsolatban az Országgyűlés ülésén egyedi esetekben felmerült vitás kérdésekben az ülést vezető elnök – szükség esetén a Házbizottságban folytatott egyeztetést követően – dönt, vagy a házszabályi rendelkezések értelmezéséért felelős bizottsághoz fordul.
 >
 > (2) Ha az országgyűlési bizottság ülésén a házszabályi rendelkezések értelmezésével kapcsolatban vitás kérdés merül fel, az országgyűlési bizottság elnöke dönt, vagy a házszabályi rendelkezések értelmezéséért felelős bizottsághoz fordul.
 >
@@ -402,7 +402,7 @@ Az V. Fejezet egyetlen szakasza a házszabályi rendelkezések értelmezésének
 
 **A rendelkezés szövege:**
 
-> A képviselők kétharmadának szavazata szükséges
+> (1) A képviselők kétharmadának szavazata szükséges
 >
 > a) az Országos Bírósági Hivatal elnökének megválasztásához a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 66. §-ában meghatározott esetben,
 >
@@ -518,7 +518,7 @@ Az V/A. Fejezet – amelyet a 2013. évi CCXLIII. törvény iktatott be, és ame
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés a Kormánynak az Európai Unió kormányzati részvétellel működő intézményeiben folytatott tevékenysége feletti – az e fejezetben meghatározott – ellenőrzési jogokat országgyűlési bizottság útján is gyakorolhatja.
+> (1) Az Országgyűlés a Kormánynak az Európai Unió kormányzati részvétellel működő intézményeiben folytatott tevékenysége feletti – az e fejezetben meghatározott – ellenőrzési jogokat országgyűlési bizottság útján is gyakorolhatja.
 >
 > (2) Az Országgyűlés európai uniós ügyekkel foglalkozó állandó bizottságának az e fejezetben meghatározott eljárások során – ha e fejezet vagy a házszabályi rendelkezések másként nem rendelkeznek – ügydöntő hatásköre van.
 
@@ -532,7 +532,7 @@ A VI. Fejezet nyitó szakasza az Országgyűlés és a Kormány európai uniós 
 
 **A rendelkezés szövege:**
 
-> A Kormány – továbbítás útján vagy egyéb módon – biztosítja a hozzáférést az Országgyűlés számára minden uniós jogi aktus-tervezethez, javaslathoz és dokumentumhoz, amely az Európai Unió kormányzati részvétellel működő intézményeinek döntéshozatali eljárásában napirenden szerepel (a továbbiakban: európai uniós tervezet).
+> (1) A Kormány – továbbítás útján vagy egyéb módon – biztosítja a hozzáférést az Országgyűlés számára minden uniós jogi aktus-tervezethez, javaslathoz és dokumentumhoz, amely az Európai Unió kormányzati részvétellel működő intézményeinek döntéshozatali eljárásában napirenden szerepel (a továbbiakban: európai uniós tervezet).
 >
 > (2) A Kormány az Országgyűlés kérésére minden további, pontosan megjelölt dokumentumot is megküld az Országgyűlésnek.
 >
@@ -554,7 +554,7 @@ A 26. cím első szakasza a Kormány alapvető tájékoztatási kötelezettség�
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés bármely európai uniós tervezettel kapcsolatban tájékoztatást kérhet a Kormány által képviselni kívánt álláspontról (a továbbiakban: álláspontjavaslat).
+> (1) Az Országgyűlés bármely európai uniós tervezettel kapcsolatban tájékoztatást kérhet a Kormány által képviselni kívánt álláspontról (a továbbiakban: álláspontjavaslat).
 >
 > (2) A Kormány bármely európai uniós tervezettel kapcsolatban megküldheti álláspontjavaslatát az Országgyűlésnek, és arról egyeztetést kezdeményezhet.
 >
@@ -590,7 +590,7 @@ A szakasz az Országgyűlés és a Kormány közötti álláspont-egyeztetés ta
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés – az egyeztetés keretében, az európai uniós döntéshozatali napirendre figyelemmel ésszerű határidőn belül – az európai uniós tervezettel kapcsolatban állásfoglalást fogadhat el.
+> (1) Az Országgyűlés – az egyeztetés keretében, az európai uniós döntéshozatali napirendre figyelemmel ésszerű határidőn belül – az európai uniós tervezettel kapcsolatban állásfoglalást fogadhat el.
 >
 > (2) Az Országgyűlés állásfoglalásában megjelöli azokat a szempontokat, amelyeket az Európai Unió döntéshozatali eljárásában szükségesnek tart érvényre juttatni.
 >
@@ -622,7 +622,7 @@ A szakasz a Kormány álláspontjavaslatának és az Országgyűlés állásfogl
 
 **A rendelkezés szövege:**
 
-> A Kormány az Európai Unió kormányzati részvétellel működő intézményének döntése után írásban tájékoztatja az Országgyűlést arról a döntésről,
+> (1) A Kormány az Európai Unió kormányzati részvétellel működő intézményének döntése után írásban tájékoztatja az Országgyűlést arról a döntésről,
 >
 > a) amellyel kapcsolatosan az Országgyűlés állásfoglalást fogadott el, vagy
 >
@@ -656,7 +656,7 @@ A szakasz az egyeztetési eljárás lezárásának három, egymástól függetle
 
 **A rendelkezés szövege:**
 
-> ⁽²⁴¹⁾ A Kormány az Európai Tanács üléseiről és a stratégiai jelentőségű európai uniós eseményekről rendszeresen tájékoztatja az európai uniós ügyekkel foglalkozó állandó bizottságot.
+> (1)⁽²⁴¹⁾ A Kormány az Európai Tanács üléseiről és a stratégiai jelentőségű európai uniós eseményekről rendszeresen tájékoztatja az európai uniós ügyekkel foglalkozó állandó bizottságot.
 >
 > (2) A házelnök kezdeményezésére az Európai Tanács üléseit és a stratégiai jelentőségű európai uniós eseményeket megelőzően a miniszterelnök tájékoztatja az Országgyűlés Európai Uniós Konzultációs Testületét.
 >
@@ -694,7 +694,7 @@ A szakasz az uniós intézmények (Európai Bizottság, Bíróság, Törvénysz�
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés az európai uniós tervezetekkel kapcsolatban állást foglalhat a szubszidiaritás és arányosság elvének érvényesüléséről.
+> (1) Az Országgyűlés az európai uniós tervezetekkel kapcsolatban állást foglalhat a szubszidiaritás és arányosság elvének érvényesüléséről.
 >
 > (2)⁽²⁴⁵⁾ Az Országgyűlés az Európai Unióról szóló szerződéshez (a továbbiakban: EUSz), az Európai Unió működéséről szóló szerződéshez (a továbbiakban: EUMSz), illetve az Európai Atomenergia-közösség létrehozásáról szóló szerződéshez csatolt 2. jegyzőkönyv szerinti, az Európai Unió intézményeinek küldött indokolt véleményéről tájékoztatja a Kormányt.
 >
